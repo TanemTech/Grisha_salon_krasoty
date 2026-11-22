@@ -1,0 +1,2254 @@
+{
+  "schema_version": 1,
+  "exporter_version": "8.0.0",
+  "exported_at": "2026-11-21T23:57:17.193218+00:00",
+  "source_url": "https://yandex.com/maps/org/salon_krasoty/174918939445/",
+  "resolved_url": "https://yandex.com/maps/org/174918939445/",
+  "organization_id": "174918939445",
+  "tan_id": "TAN-174918939445",
+  "type": "salon",
+  "organization": {
+    "name": "Салон красоты",
+    "description": "Салон красоты «Салон красоты» — «Хорошее место» по оценкам пользователей — по адресу Московская область, Мытищи, Стрелковая улица, 21, ☎️ +7 985 313 54 33. Читать 144 отзыва, смотреть 144 фото, панорамы, часы работы. Построить маршрут в Яндекс Картах.",
+    "address": "Московская область, Мытищи, Стрелковая улица, 21, 141013",
+    "status_and_hours": "Закрыто до 10:00",
+    "phones": [
+      "+7 (985) 313-54-33"
+    ],
+    "websites": [
+      "https://viber.click/89853135433",
+      "https://vk.ru/club175390765"
+    ],
+    "social_links": [
+      "https://wa.me/79853135433?text=%D0%9E%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B8%D0%B7+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81+%D0%9A%D0%B0%D1%80%D1%82%0A%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE+%D0%B2%D0%B0%D1%88%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5"
+    ],
+    "rating": "4.6",
+    "review_count": "144",
+    "categories": [
+      "Салоны красоты",
+      "Салон красоты",
+      "Ногтевая студия",
+      "Парикмахерская"
+    ]
+  },
+  "services": [
+    {
+      "category": "Без категории",
+      "name": "Коррекция + окрашивание бровей",
+      "description": "Коррекция + окрашивание бровей люксовым материалом",
+      "duration": "",
+      "price_text": "1290 ₽",
+      "price_from": "1290",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Коррекция + окрашивание бровей Коррекция + окрашивание бровей люксовым материалом 1290 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Окрашивание волос в технике",
+      "description": "5000 ₽",
+      "duration": "",
+      "price_text": "Цены от 5000₽-12.000₽ в зависимости от длины",
+      "price_from": "5000",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Окрашивание волос в технике Цены от 5000₽-12.000₽ в зависимости от длины 5000 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Маникюр + покрытие",
+      "description": "",
+      "duration": "",
+      "price_text": "2100 ₽",
+      "price_from": "2100",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Маникюр + покрытие 2100 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Мелирование волос",
+      "description": "Мелирование волос, тонирование волос Окрашивание волос Мытищи 5 900 шт.",
+      "duration": "",
+      "price_text": "3000 ₽",
+      "price_from": "3000",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Мелирование волос Мелирование волос, тонирование волос Окрашивание волос Мытищи 3000 ₽ 5 900 шт."
+    },
+    {
+      "category": "Без категории",
+      "name": "Мужские стрижки",
+      "description": "500 ₽",
+      "duration": "",
+      "price_text": "Мужские стрижки от 500₽",
+      "price_from": "500",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Мужские стрижки Мужские стрижки от 500₽ 500 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Каре",
+      "description": "",
+      "duration": "",
+      "price_text": "1500 ₽",
+      "price_from": "1500",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Каре 1500 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Стрижка лесенка",
+      "description": "",
+      "duration": "",
+      "price_text": "1500 ₽",
+      "price_from": "1500",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Стрижка лесенка 1500 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Френч",
+      "description": "Маникюр дизайн френч Маникюр Мытищи Педикюр Мытищи",
+      "duration": "",
+      "price_text": "400 ₽",
+      "price_from": "400",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Френч Маникюр дизайн френч Маникюр Мытищи Педикюр Мытищи 400 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Мужская модельная стрижка",
+      "description": "",
+      "duration": "",
+      "price_text": "800 ₽",
+      "price_from": "800",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Мужская модельная стрижка 800 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Маникюр+ покрытие гель лак с дизайном",
+      "description": "В Мытищах мы предлагаем профессиональный маникюр. Наши услуги доступны по адресу: Стрелковая улица. Мы используем технику маникюра в 4 руки.",
+      "duration": "",
+      "price_text": "2500 ₽",
+      "price_from": "2500",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Маникюр+ покрытие гель лак с дизайном В Мытищах мы предлагаем профессиональный маникюр. Наши услуги доступны по адресу: Стрелковая улица. Мы используем технику маникюра в 4 руки. 2500 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Макияж",
+      "description": "Профессиональный макияж в Мытищах: услуги визажиста рядом с вашим домом.",
+      "duration": "",
+      "price_text": "2500 ₽",
+      "price_from": "2500",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Макияж Профессиональный макияж в Мытищах: услуги визажиста рядом с вашим домом. 2500 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Колористика",
+      "description": "Профессиональный колорист в Мытищах! Превращаю ваши идеи в яркие и живые цвета! Подберу идеальный оттенок для вашего интерьера, одежды или волос. Использую только качественные краски и материалы. Гарантирую отличный результат. Запис...",
+      "duration": "",
+      "price_text": "10000 ₽",
+      "price_from": "10000",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Колористика Профессиональный колорист в Мытищах! Превращаю ваши идеи в яркие и живые цвета! Подберу идеальный оттенок для вашего интерьера, одежды или волос. Использую только качественные краски и материалы. Гарантирую отличный результат. Запис... 10000 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Маникюр с покрытием гель лак",
+      "description": "Услуга по уходу за ногтями в Мытищах — Магия, что дарит нежность и покой. Красота в каждом штрихе, блеск в каждом взгляде, Руки твои станут легкими, как сон.",
+      "duration": "",
+      "price_text": "2200 ₽",
+      "price_from": "2200",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Маникюр с покрытием гель лак Услуга по уходу за ногтями в Мытищах — Магия, что дарит нежность и покой. Красота в каждом штрихе, блеск в каждом взгляде, Руки твои станут легкими, как сон. 2200 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Маникюр с покрытием гель лак + френч",
+      "description": "",
+      "duration": "",
+      "price_text": "2600 ₽",
+      "price_from": "2600",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Маникюр с покрытием гель лак + френч 2600 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Ламинирование бровей",
+      "description": "Ламинирование бровей в Мытищах Брови в Мытищах Архитектура бровей в Мытищах",
+      "duration": "",
+      "price_text": "1200 ₽",
+      "price_from": "1200",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Ламинирование бровей Ламинирование бровей в Мытищах Брови в Мытищах Архитектура бровей в Мытищах 1200 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Педикюр с покрытием гель лак",
+      "description": "",
+      "duration": "",
+      "price_text": "2700 ₽",
+      "price_from": "2700",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Педикюр с покрытием гель лак 2700 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Педикюр+покрытие дизайн френч",
+      "description": "",
+      "duration": "",
+      "price_text": "2900 ₽",
+      "price_from": "2900",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Педикюр+покрытие дизайн френч 2900 ₽"
+    },
+    {
+      "category": "Без категории",
+      "name": "Окрашивание волос",
+      "description": "Окрашивание волос в Мытищах Профессиональная окраска волос в разных техниках. Мы находимся на улице Стрелковой, дом 21.",
+      "duration": "",
+      "price_text": "3000 ₽",
+      "price_from": "3000",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Окрашивание волос Окрашивание волос в Мытищах Профессиональная окраска волос в разных техниках. Мы находимся на улице Стрелковой, дом 21. 3000 ₽"
+    },
+    {
+      "category": "Окрашивание волос",
+      "name": "Сложное окрашивание",
+      "description": "Сложное окрашивание в Мытищах. Колористика в Мытищах. 12 000 шт.",
+      "duration": "",
+      "price_text": "6000 ₽",
+      "price_from": "6000",
+      "price_to": "",
+      "currency": "₽",
+      "raw_text": "Сложное окрашивание Сложное окрашивание в Мытищах. Колористика в Мытищах. 6000 ₽ 12 000 шт."
+    }
+  ],
+  "reviews": [
+    {
+      "author": "маруся самохина",
+      "date": "9 апреля",
+      "rating": "5",
+      "text": "Очень довольна результатом! Маникюр просто идеальный аккуратный, стильный, выполнен с любовью к деталям. Покрытие ровное, держится отлично, форма ногтей подобрана идеально — не могу налюбоваться! Отдельное спасибо за стрижку и окрашивание — это восторг 😍 Цвет получился именно такой, как я хотела: насыщенный, живой и очень красивый. Стрижка освежила образ, волосы выглядят ухоженными и лёгкими. Мастера настоящие профессионалы своего дела! Обязательно вернусь снова и буду советовать всем 💖",
+      "raw_text": "маруся самохина Знаток города 5 уровня Подписаться 9 апреля Очень довольна результатом! Маникюр просто идеальный аккуратный, стильный, выполнен с любовью к деталям. Покрытие ровное, держится отлично, форма ногтей подобрана идеально — не могу налюбоваться! Отдельное спасибо за стрижку и окрашивание — это восторг 😍 Цвет получился именно такой, как я хотела: насыщенный, живой и очень красивый. Стрижка освежила образ, волосы выглядят ухоженными и лёгкими. Мастера настоящие профессионалы своего дела! Обязательно вернусь снова и буду советовать всем 💖 Посмотреть ответ организации",
+      "source": "Яндекс Карты",
+      "source_url": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/?ll=37.778552%2C55.945411&z=13",
+      "source_review_id": ""
+    },
+    {
+      "author": "Татьяна",
+      "date": "14 декабря 2025",
+      "rating": "5",
+      "text": "Добрый вечер! Хочу выразить благодарность за стрижку и окрашивание волос мастеру Наре. Хожу к ней уже полтора года и каждый раз она с вниманием и особым трепетом относится к своей клиентам!!!! Всегда и посоветует что-то по уходу за волосами, окрашивание это вообще \" отдельная тема\" она так подбирает цвета, что сидишь и думаешь \" да это действительно то что я хотела\". Спасибо вам большое! Такие мастера на вес золота!!! Также была на педикюре тоже понравилось, все сделали аккуратно и красиво) Спасибо",
+      "raw_text": "Татьяна Знаток города 5 уровня Подписаться 14 декабря 2025 Добрый вечер! Хочу выразить благодарность за стрижку и окрашивание волос мастеру Наре. Хожу к ней уже полтора года и каждый раз она с вниманием и особым трепетом относится к своей клиентам!!!! Всегда и посоветует что-то по уходу за волосами, окрашивание это вообще \" отдельная тема\" она так подбирает цвета, что сидишь и думаешь \" да это действительно то что я хотела\". Спасибо вам большое! Такие мастера на вес золота!!! Также была на педикюре тоже понравилось, все сделали аккуратно и красиво) Спасибо 1 Посмотреть ответ организации",
+      "source": "Яндекс Карты",
+      "source_url": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/?ll=37.778552%2C55.945411&z=13",
+      "source_review_id": ""
+    },
+    {
+      "author": "Галюня Кокорева",
+      "date": "7 июня 2025",
+      "rating": "5",
+      "text": "Посещение мастера маникюра Елены стало для меня настоящим открытием ! Начну с того, что сама процедура прошла легко и непринужденно благодаря приятному общению и профессиональному подходу. Елена внимательно выслушала мои предпочтения и предложила оптимальные решения. Результат превзошел ожидания — маникюр выглядит потрясающе, цвета подобраны идеально, форма ногтей аккуратная и естественная. Рекомендую всем, кто ценит профессиональный подход и высокое качество услуг! 😍",
+      "raw_text": "Галюня Кокорева Знаток города 4 уровня Подписаться 7 июня 2025 Посещение мастера маникюра Елены стало для меня настоящим открытием ! Начну с того, что сама процедура прошла легко и непринужденно благодаря приятному общению и профессиональному подходу. Елена внимательно выслушала мои предпочтения и предложила оптимальные решения. Результат превзошел ожидания — маникюр выглядит потрясающе, цвета подобраны идеально, форма ногтей аккуратная и естественная. Рекомендую всем, кто ценит профессиональный подход и высокое качество услуг! 😍 1 Посмотреть ответ организации",
+      "source": "Яндекс Карты",
+      "source_url": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/?ll=37.778552%2C55.945411&z=13",
+      "source_review_id": ""
+    },
+    {
+      "author": "Наталья Королева",
+      "date": "25 июля 2025",
+      "rating": "5",
+      "text": "Зашла случайном в салон чтоб отремонтировать пару ноготков и приятно была удивлена, что мне не отказали в ремонте в этот же день! Мастер Марьям обслужила быстро и с улыбкой, работой довольна взяла номер администратора приду в следующий раз на маникюр! Спасибо Марьям даже лак подобрали в тон)",
+      "raw_text": "Наталья Королева Знаток города 6 уровня Подписаться 25 июля 2025 Зашла случайном в салон чтоб отремонтировать пару ноготков и приятно была удивлена, что мне не отказали в ремонте в этот же день! Мастер Марьям обслужила быстро и с улыбкой, работой довольна взяла номер администратора приду в следующий раз на маникюр! Спасибо Марьям даже лак подобрали в тон) Посмотреть ответ организации",
+      "source": "Яндекс Карты",
+      "source_url": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/?ll=37.778552%2C55.945411&z=13",
+      "source_review_id": ""
+    },
+    {
+      "author": "Annet Aaa",
+      "date": "23 января",
+      "rating": "5",
+      "text": "Очень приятная атмосфера в студии, а сама Мастер маникюра Марина — просто волшебница! С ней очень комфортно и нескучно. Она учла все мои пожелания, дала полезные советы по уходу. Время пролетело незаметно, а результат превзошел все ожидания. Спасибо за красоту и позитив!».",
+      "raw_text": "Annet Aaa Знаток города 3 уровня Подписаться 23 января Очень приятная атмосфера в студии, а сама Мастер маникюра Марина — просто волшебница! С ней очень комфортно и нескучно. Она учла все мои пожелания, дала полезные советы по уходу. Время пролетело незаметно, а результат превзошел все ожидания. Спасибо за красоту и позитив!». Посмотреть ответ организации",
+      "source": "Яндекс Карты",
+      "source_url": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/?ll=37.778552%2C55.945411&z=13",
+      "source_review_id": ""
+    },
+    {
+      "author": "Кишмиш С.",
+      "date": "11 декабря 2025",
+      "rating": "5",
+      "text": "Была на маникюре и на окрашивание волос , сделали в 4 руки , очень большая политра цветов , администратор очень оперативно подобрала окошки , очень красивая мини студия , вернусь к вам снова 👌",
+      "raw_text": "Кишмиш С. Знаток города 4 уровня Подписаться 11 декабря 2025 Была на маникюре и на окрашивание волос , сделали в 4 руки , очень большая политра цветов , администратор очень оперативно подобрала окошки , очень красивая мини студия , вернусь к вам снова 👌 1 Посмотреть ответ организации",
+      "source": "Яндекс Карты",
+      "source_url": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/?ll=37.778552%2C55.945411&z=13",
+      "source_review_id": ""
+    },
+    {
+      "author": "Евгения С.",
+      "date": "11 сентября 2025",
+      "rating": "5",
+      "text": "Уютненько,цены адекватные. Выбор цветов большой. Мастер очень аккуратно сделала педикюр.Удобное расположение есть парковка. Я довольна. Хожу сюда уже второй год. Всегда отличное качество. Быстрая запись.",
+      "raw_text": "Евгения С. Знаток города 5 уровня Подписаться 11 сентября 2025 Уютненько,цены адекватные. Выбор цветов большой. Мастер очень аккуратно сделала педикюр.Удобное расположение есть парковка. Я довольна. Хожу сюда уже второй год. Всегда отличное качество. Быстрая запись. 1 Посмотреть ответ организации",
+      "source": "Яндекс Карты",
+      "source_url": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/?ll=37.778552%2C55.945411&z=13",
+      "source_review_id": ""
+    },
+    {
+      "author": "Гнар Аташян",
+      "date": "24 июля 2025",
+      "rating": "5",
+      "text": "Сегодня была на маникюре, мне все очень понравилось, салон очень чистый, и опрятный, персонал просто прекрасный, вкусный кофе ☕️ приятная беседа, Мастер Марьям сделала хорошую работу мне все очень понравилось, приду снова 🌺",
+      "raw_text": "Гнар Аташян Знаток города 2 уровня Подписаться 24 июля 2025 Сегодня была на маникюре, мне все очень понравилось, салон очень чистый, и опрятный, персонал просто прекрасный, вкусный кофе ☕️ приятная беседа, Мастер Марьям сделала хорошую работу мне все очень понравилось, приду снова 🌺 1 Посмотреть ответ организации",
+      "source": "Яндекс Карты",
+      "source_url": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/?ll=37.778552%2C55.945411&z=13",
+      "source_review_id": ""
+    },
+    {
+      "author": "Сюзанна Сафарян",
+      "date": "28 мая 2025",
+      "rating": "5",
+      "text": "Огромное спасибо за безупречный маникюр! Мастер уделила внимание каждой детали, обработала кутикулу аккуратно, покрытие легло идеально. Очень приятная атмосфера в салоне, все стерильно и красиво.",
+      "raw_text": "Сюзанна Сафарян Знаток города 3 уровня Подписаться 28 мая 2025 Огромное спасибо за безупречный маникюр! Мастер уделила внимание каждой детали, обработала кутикулу аккуратно, покрытие легло идеально. Очень приятная атмосфера в салоне, все стерильно и красиво. 1 1",
+      "source": "Яндекс Карты",
+      "source_url": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/?ll=37.778552%2C55.945411&z=13",
+      "source_review_id": ""
+    },
+    {
+      "author": "Гозал Калашан",
+      "date": "4 августа 2025",
+      "rating": "5",
+      "text": "Посетила этот салон для маникюра и осталась очень довольна работой мастера Марьям. Она внимательная, дружелюбная и точно понимает, чего хочешь. Маникюр сделан аккуратно и держится отлично. Атмосфера в салоне приятная, рекомендую всем! 😊",
+      "raw_text": "Гозал Калашан Знаток города 3 уровня Подписаться 4 августа 2025 Посетила этот салон для маникюра и осталась очень довольна работой мастера Марьям. Она внимательная, дружелюбная и точно понимает, чего хочешь. Маникюр сделан аккуратно и держится отлично. Атмосфера в салоне приятная, рекомендую всем! 😊 Посмотреть ответ организации",
+      "source": "Яндекс Карты",
+      "source_url": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/?ll=37.778552%2C55.945411&z=13",
+      "source_review_id": ""
+    },
+    {
+      "author": "Милена Калоян",
+      "date": "29 июня 2025",
+      "rating": "5",
+      "text": "Потрясающий салон! Посетила впервые и осталась в полном восторге! Профессионализм мастеров просто восхищает. Каждый специалист — настоящий эксперт в своём деле. От маникюра до педикюра — всё выполнено безупречно, с учётом всех моих пожеланий.",
+      "raw_text": "Милена Калоян Знаток города 2 уровня Подписаться 29 июня 2025 Потрясающий салон! Посетила впервые и осталась в полном восторге! Профессионализм мастеров просто восхищает. Каждый специалист — настоящий эксперт в своём деле. От маникюра до педикюра — всё выполнено безупречно, с учётом всех моих пожеланий. 1 Посмотреть ответ организации",
+      "source": "Яндекс Карты",
+      "source_url": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/?ll=37.778552%2C55.945411&z=13",
+      "source_review_id": ""
+    }
+  ],
+  "features": [
+    "Филиалы",
+    "Похожие места",
+    "Ногтевая студия",
+    "Парикмахерская",
+    "Услуги",
+    "Маникюр",
+    "Педикюр",
+    "Классический женский маникюр с покрытием:800–1000 ₽",
+    "Общая информация",
+    "Оплата картой",
+    "Парковка",
+    "Wi-Fi",
+    "Подарочный сертификат",
+    "Способ оплаты:наличными, онлайн, оплата кредитной картой",
+    "Акции:скидки, акции, спецпредложения, бонусы, подарки",
+    "Доступность",
+    "Парковка для людей с инвалидностью"
+  ],
+  "photos": [
+    {
+      "file": "gallery.00000.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/9719535/2a0000018a360336c58956fe36f7e18c404b/XXXL",
+      "source_width": 736,
+      "source_height": 920,
+      "width": 736,
+      "height": 736,
+      "sha256": "f5cad58347b83c3eec5d122c721f1f2e30a447003c5b6c074d4adb80f365fdde",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00001.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/4509886/2a00000178358f798d8deb799ce4df7ba8dd/XXXL",
+      "source_width": 1280,
+      "source_height": 960,
+      "width": 960,
+      "height": 960,
+      "sha256": "0c25a1ace686822931449abb232a9ddb203ced81d1c8123baf58156c97d6e99d",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00002.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10142335/2a0000018caa38c65f89fcf48b047f0be88d/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "91541c269b4f6b13b6d738bee3f039ed086b02ef49b3f09f21aaa9cf177a8af9",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00003.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/5490109/2a0000017cae39a4846112b3bc642c7aeed9/XXXL",
+      "source_width": 1280,
+      "source_height": 960,
+      "width": 960,
+      "height": 960,
+      "sha256": "d5991f561a730cd49ce1de5b6be89a6360ea2fc0181b9c62ace66fd2e04aac08",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00004.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/4797538/2a000001775a3ae33719780bd0e1dfd30803/XXXL",
+      "source_width": 1280,
+      "source_height": 960,
+      "width": 960,
+      "height": 960,
+      "sha256": "6c3c8dd2417898b5ddb31711d221a6306fbb4c03ef9e1744f544f4ad76897bb7",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00005.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/1020917/2a00000186f0833dd430353b0008f28aa4be/XXXL",
+      "source_width": 575,
+      "source_height": 768,
+      "width": 575,
+      "height": 575,
+      "sha256": "2f592a976c3da009e69c375f0603091b347f4e8f63d63dc0ebd33c6ba955b33e",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00006.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10328405/2a0000018e9082786640282a2d2d8fc82c3b/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "c734e38afa8b5f0249680b7c984eed921925e9ceff4f071ad4d853609834944c",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00007.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/4524003/2a0000017c40b6f5463bf618f97f3540e5cd/XXXL",
+      "source_width": 750,
+      "source_height": 937,
+      "width": 750,
+      "height": 750,
+      "sha256": "20a226bdc60fe9b241cd7c93a3ef6f6ed8f767f824583520bf098260d3a9333b",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00008.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/910613/2a0000018b77db9039ca2510508ecefefcc6/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "cd92bc3d5707a9af3ec75d2688ac9d3b6426417d304281130f6ba33b9fd3bb5c",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00009.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/1583511/2a0000018647da155745da5b0b3f9444a5f5/XXXL",
+      "source_width": 640,
+      "source_height": 627,
+      "width": 627,
+      "height": 627,
+      "sha256": "90bf39cc2bdd85eacb1bd160e4bbf1aa3e0cb9a81c5f23c02dfb99462eb6d4f8",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00010.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/902116/2a000001865a5edc36163e8f0510493772a6/XXXL",
+      "source_width": 736,
+      "source_height": 736,
+      "width": 736,
+      "height": 736,
+      "sha256": "a243bb58883e7ae5f19b269649a65e01279228f5f36a4e03bdffec00d8c59945",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00011.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10239151/2a0000018fed131ebd7dd54ed62920463437/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "418ea59891292dbf2a89289e2ca3e1135bfc62591babebe6eabd6ed87935af51",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00012.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/4120601/2a00000177a58c8bd4fcd1ac3aa7e9cd3882/XXXL",
+      "source_width": 750,
+      "source_height": 622,
+      "width": 622,
+      "height": 622,
+      "sha256": "790f11a856bb2a50d7165f295c81c3f641a1cb449012c748987ff6f1e42ef01e",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00013.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/6159907/2a0000018faa1843089397b1c79a97f2df1c/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "366ddb68a8dbffa227406687d884c871770fb8054ca56cad20073be91d495579",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00014.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/9368060/2a0000018a360336f2a2601bebe5661fe5a4/XXXL",
+      "source_width": 474,
+      "source_height": 595,
+      "width": 474,
+      "height": 474,
+      "sha256": "55c51a2db9fd2e7c7e50a5aaa6bd8144195d89a92e1dc1c23bab83a5504aa30b",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00015.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/4524003/2a0000017c40ba0fbbfc028c35bc75831e57/XXXL",
+      "source_width": 500,
+      "source_height": 650,
+      "width": 500,
+      "height": 500,
+      "sha256": "544e4143a34201095c51c8ad5c1efef8460d97478a64e73e4f148fe0be20a9d8",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00016.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/2701879/2a00000174491fecbe41cfce869c5e46c89d/XXXL",
+      "source_width": 640,
+      "source_height": 640,
+      "width": 640,
+      "height": 640,
+      "sha256": "7944ef16d0b39df0bfc082cf36a6de87a38ca946246ee362059f157a3037ecd4",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00017.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/6143287/2a0000018486fd527624f5781475e3e1cbbf/XXXL",
+      "source_width": 736,
+      "source_height": 981,
+      "width": 736,
+      "height": 736,
+      "sha256": "640b866ae2dbdb6ad2d0affa5ad17de5d58e62ac895c4cae21bb3cdd73631c35",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00018.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/2761244/2a0000017449202523f4e99cb42a679b1600/XXXL",
+      "source_width": 520,
+      "source_height": 761,
+      "width": 520,
+      "height": 520,
+      "sha256": "d95843f0a572a1a9ddf902386adb1f3a27492ea1001406cce2aaea43921e4718",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00019.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/11093519/2a0000018b955e8790c28299c773b6c71d68/XXXL",
+      "source_width": 1280,
+      "source_height": 960,
+      "width": 960,
+      "height": 960,
+      "sha256": "e7666b73f6834da226efb95276ad8f68da48bdf648d4da7987da502fb067baf0",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00020.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/9830591/2a000001901855e6d121d7a5ae9542933a60/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "1bf6de030521161d6b2bfa1767c9f8b926a937d74fcb1e43d01da8a4fe43ccbd",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00021.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/4341149/2a0000017c40b6d593707fb3be947d77c78f/XXXL",
+      "source_width": 640,
+      "source_height": 635,
+      "width": 635,
+      "height": 635,
+      "sha256": "946172e3453fee704dc442c8b7b667be70a76aba91394556859da8e59abcd7ec",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00022.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/1987173/2a0000017449202086be9b2ad4a2914ad4d6/XXXL",
+      "source_width": 1280,
+      "source_height": 960,
+      "width": 960,
+      "height": 960,
+      "sha256": "317079c47d91f4e06c93897c79a93260d60f474f0c7e6a306d94370ced0989e2",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00023.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/3518606/2a00000177a58c9160355c97ed768ea826fb/XXXL",
+      "source_width": 604,
+      "source_height": 604,
+      "width": 604,
+      "height": 604,
+      "sha256": "7df7813993a67903123d4752fbe941471a4d46d6626aa68c91e6639547966e51",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00024.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/13203115/2a0000018ed397437c37347680a9b6a92a79/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "9e8cd98231ec42cdda78605bad2ca42f807e6df471f3c3f2ef3389e0b165aee7",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00025.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/13499585/2a000001902ab66948396dda21ea7299c171/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "d7b40d5503a0b65a16d162e8cba17fc5b49759cbb375a2322672612ac109008e",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00026.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/979642/2a000001877f759e5cb2945a41adffb1c6be/XXXL",
+      "source_width": 750,
+      "source_height": 750,
+      "width": 750,
+      "height": 750,
+      "sha256": "82a9069542081afd358460319a3af94647c4efc4654991118f135f10165bfd25",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00027.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10239151/2a000001901afca96c7f571919fd256f9f63/XXXL",
+      "source_width": 768,
+      "source_height": 576,
+      "width": 576,
+      "height": 576,
+      "sha256": "851e942583fe6a3f129e34baba42b46d34d923927b2ac76b6f85e07fc376ee82",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00028.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/5534173/2a0000018486fce4b5895cbaf219335ba31a/XXXL",
+      "source_width": 642,
+      "source_height": 1200,
+      "width": 642,
+      "height": 642,
+      "sha256": "58dd72c77209477a853de3304f8be3a160d9b2422429e747201336588efcbd40",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00029.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/5445147/2a0000017cae3b2b761fa650891eb26e1c8d/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "5f99770d8aeb9b2ec6b7f1151947279984f23da8d5d9641493ba4a54382d193c",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00030.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/4587805/2a0000017c40a27a4b98a27676e86da861b3/XXXL",
+      "source_width": 750,
+      "source_height": 1000,
+      "width": 750,
+      "height": 750,
+      "sha256": "7b10e9ce9f10a9b0f8ca27f39c8b2b487c6f704e059a7e026e061b2c7ae02f63",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00031.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/2419289/2a00000174492010be8db2ac68cb6cc8cf61/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "b328c7232d1a0a90c00df43bd5fe76d27136fc7b0eeb0b54fd96a4769f6c7155",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00032.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/13083354/2a0000018f2e95691bf46a79987f58c13926/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "40c2e99936ff34256b9a5e24d02487d72a5824fb63c2f7acc13d74c0a130ca01",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00033.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/4257799/2a0000017c40b5729bdc99b4b5b85c8c9040/XXXL",
+      "source_width": 750,
+      "source_height": 937,
+      "width": 750,
+      "height": 750,
+      "sha256": "e4b8219da8643b9aa3e5b3d003ce1b772968d4ed29acf5b31f401e6470c1b432",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00034.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10812438/2a0000018a360337471fa4ff42f685cdc736/XXXL",
+      "source_width": 750,
+      "source_height": 750,
+      "width": 750,
+      "height": 750,
+      "sha256": "34f297f895ac317478ce4abeb12933b82f0877b2694d66d46f39461798d2de7f",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00035.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/8093564/2a00000188f46c504c828b16f1cd0a8c43e7/XXXL",
+      "source_width": 750,
+      "source_height": 937,
+      "width": 750,
+      "height": 750,
+      "sha256": "74df0d2534350aeb3d321f7b35350edb35479d88a2872e5ac5709c6faa3f3466",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00036.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/6195924/2a0000018fed13483c14486a9446005fc30b/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "cb1fed3c0ab58d1d48fcaf08edb56f861ef4908e2e9ca4efb60dc79609e8595e",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00037.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/7754763/2a000001865a5ed3e2b855834983a26b38ad/XXXL",
+      "source_width": 736,
+      "source_height": 981,
+      "width": 736,
+      "height": 736,
+      "sha256": "5b72831adb095d4ccaa09c9589f331d6decb0cf30e72ec701e708f70ffee2124",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00038.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/9719535/2a00000188f46c50468fe5381fa1040f0239/XXXL",
+      "source_width": 720,
+      "source_height": 1280,
+      "width": 720,
+      "height": 720,
+      "sha256": "1e5c29eae3ce174da79dde6943f030ee444d47bf0ba191ddb6c4a005720fd874",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00039.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/13192844/2a000001903a3fb75f4e514ae8168c7ca74e/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "e36aa7aff3f479eebe7e5fe0a6ffaa0a8f07d6ae9039585a0f642504be3639b5",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00040.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/9663145/2a00000189cf79333cb9d8c5482d2a9aa266/XXXL",
+      "source_width": 749,
+      "source_height": 867,
+      "width": 749,
+      "height": 749,
+      "sha256": "dea27c05965a730c1f315d23a2f160da5ef0c151c06cef084c07014b769f348c",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00041.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/5503221/2a0000017cae3a232330f7e5bbfddc01e449/XXXL",
+      "source_width": 720,
+      "source_height": 1280,
+      "width": 720,
+      "height": 720,
+      "sha256": "8f15ea44d00252656a11f2cf0f776fde3ae20325f4d0cb1f36e69e849e6bd61d",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00042.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/4562719/2a0000017c40b64e32a216836bf4f256cca0/XXXL",
+      "source_width": 1280,
+      "source_height": 827,
+      "width": 827,
+      "height": 827,
+      "sha256": "5a607084009cd89cd9b431eddc7616e6b6fdb186970d3a71126e997504b94c29",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00043.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/5298780/2a0000017c40b989bf462cd8f0cec16a4429/XXXL",
+      "source_width": 666,
+      "source_height": 1280,
+      "width": 666,
+      "height": 666,
+      "sha256": "678234ed3bff955bcc81cd2f7a52583d2ab4403b7a138470c8329c50d16f280e",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00044.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/5527230/2a0000018486ff5b9f64e0d2565517e1afd8/XXXL",
+      "source_width": 735,
+      "source_height": 858,
+      "width": 735,
+      "height": 735,
+      "sha256": "98b5359873e97c5741743ee0077c6bc32dcd863be387eb27eb6ce20230e7fb49",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00045.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/2433982/2a000001744921c84269ba88adee8c2ea5f1/XXXL",
+      "source_width": 749,
+      "source_height": 722,
+      "width": 722,
+      "height": 722,
+      "sha256": "1c1d5892f9eb73bb1717921cc217e965a59b5273292d4870f6b7fb5707395cc6",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00046.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/4289674/2a0000017c40a3ad66a0f6ffa0135a838281/XXXL",
+      "source_width": 768,
+      "source_height": 1024,
+      "width": 768,
+      "height": 768,
+      "sha256": "e5275aa6cc36ebea8771ad3e787a4254ff344f459d01815a8c26c8a8a0bea1d2",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00047.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/8128793/2a00000187e1bee1dfb12bf90db379c5a3ae/XXXL",
+      "source_width": 720,
+      "source_height": 1280,
+      "width": 720,
+      "height": 720,
+      "sha256": "1069c8b95d037c3b18ab99ebbf8c19237d635a617e1ce74325fdc0817b910b0e",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00048.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/5195020/2a0000017c40a2f07b8fca524d75b33dec79/XXXL",
+      "source_width": 750,
+      "source_height": 563,
+      "width": 563,
+      "height": 563,
+      "sha256": "2434a962e23111c8f6709ec559be548dcada1d6dbc6c0eb6c6ac10e041471ad1",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00049.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/11003990/2a0000018b77db7e7b1013e34c8c6209d364/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "384565ea65b00403e319d17378c05834704ec8c2fdaf999913b6e33e083a70a0",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00050.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/13203115/2a0000018fe5bd2ceb2122000c1a1a9e2280/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "df08793629d8f233a96501473f28f714f9dc491485d6956230bfc184a6a4ec1e",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00051.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/13581124/2a0000018ec28d2a6a4d60c47788676f13d8/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "f1eb97c6b48b85990731855e617bc7ed58e7d7e8e49d9b69322506140b597508",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00052.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/2368846/2a00000173dd2fd745931bf535c7654abf98/XXXL",
+      "source_width": 1280,
+      "source_height": 1280,
+      "width": 1280,
+      "height": 1280,
+      "sha256": "965c0101c43b44d1eafd81f148299c9eeac423594b51b181649518af36e65f35",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00053.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/11940760/2a0000018ec78e1247b6d68c48c2c547aeeb/XXXL",
+      "source_width": 720,
+      "source_height": 1280,
+      "width": 720,
+      "height": 720,
+      "sha256": "6f204665eec187250889b5de2c9d0879d08895b5a709cc0f1e317409aab7ab81",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00054.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/2397657/2a00000174491fff9a0d5a57c5af0c73b22f/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "3646e8fb52f604239a0e8a9747be8ad0e88c1a95392b6078e9ef71f20c21a896",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00055.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/4380921/2a00000177a58c8e1c2aba3b6cdce7fb751e/XXXL",
+      "source_width": 958,
+      "source_height": 1280,
+      "width": 958,
+      "height": 958,
+      "sha256": "c1eff42e40410dba46dab3141ec4bd0aa0874c39eda6f048586d12986f3e958c",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00056.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/9916116/2a00000188f46c509f63a95213fc113c4c8c/XXXL",
+      "source_width": 750,
+      "source_height": 919,
+      "width": 750,
+      "height": 750,
+      "sha256": "a04007f0b4947826445d9b721fb189ccf6f263505794c9eb7b3ca7a617046763",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00057.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10328405/2a0000018ec78e12dc5d247d7daf75ffc521/XXXL",
+      "source_width": 1280,
+      "source_height": 960,
+      "width": 960,
+      "height": 960,
+      "sha256": "60203535474a33d965179032de6c467d294e09b6f368bd0c6241b0089cf66f63",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00058.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10239151/2a0000019072ddc31adaf5698dbdbee015c4/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "0e8e4f4eabbfe3ad841aea1d2e3da0da347134174a71a21fd975d4463deeefa5",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00059.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/4538345/2a00000177a58c94e21860eb6e9c294c68b0/XXXL",
+      "source_width": 958,
+      "source_height": 1280,
+      "width": 958,
+      "height": 958,
+      "sha256": "6f76c4eea401eae5b8b3c56fcaac8e682b7e4411cb725d4f84e1df68d585a8f0",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00060.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10447847/2a0000018b6af2818d78b4bcab6ad9d4ffdf/XXXL",
+      "source_width": 1280,
+      "source_height": 960,
+      "width": 960,
+      "height": 960,
+      "sha256": "ee619172a511705e2e27ee1d180c1321629e48a32143eaa6c3ea9eb855e1107a",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00061.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/2755030/2a00000173dd32719d18d565a3071625e85c/XXXL",
+      "source_width": 749,
+      "source_height": 838,
+      "width": 749,
+      "height": 749,
+      "sha256": "318129b6b65f032dd5fb0a1411b0df9171ae4b2f539a7eb12bb8644e36c337b4",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00062.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10648814/2a0000018aec44c6fa89798f7fe1ffa76f04/XXXL",
+      "source_width": 576,
+      "source_height": 768,
+      "width": 576,
+      "height": 576,
+      "sha256": "1177e74aa2ff7721418d4d04df1e299e95e299686259bc7dc94ee01f9d6e1b36",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00063.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10829645/2a0000018b04ae42f7427df958405c089d40/XXXL",
+      "source_width": 576,
+      "source_height": 768,
+      "width": 576,
+      "height": 576,
+      "sha256": "7d9450d107370f575f9317a56a361a4e71b0ba551a21f9f09acc2bdb21b7f156",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00064.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/13267750/2a0000018fed4bc1e98909e0e2efe3c3fd3e/XXXL",
+      "source_width": 1280,
+      "source_height": 960,
+      "width": 960,
+      "height": 960,
+      "sha256": "bdc1ac3e4a9d0f32a798e103f609527b903aceaf91ec5ecb06df61b0c04bfbd2",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00065.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10147638/2a0000018db1ac0f433b99b71fac6be49cb6/XXXL",
+      "source_width": 1280,
+      "source_height": 960,
+      "width": 960,
+      "height": 960,
+      "sha256": "4cb4a524b4fe41fe36c4b667144a2523bfe524f1288010f8845c62cccde1b5a2",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00066.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/2815220/2a00000173dd2facc1357f1566a79ba148cf/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "51bb9b841b45e705189727939a318d60c9704f8130bd9cad101e38b7c6555cab",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00067.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/1371846/2a000001865a5e57ffa8ebf5f73f13129392/XXXL",
+      "source_width": 736,
+      "source_height": 920,
+      "width": 736,
+      "height": 736,
+      "sha256": "ae0ff0a60263820b79f05b8832a8513bb4858c83301da1d87a31353ec0274a81",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00068.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/11940760/2a0000018ec78e1248f5f12998c3a067c572/XXXL",
+      "source_width": 720,
+      "source_height": 1280,
+      "width": 720,
+      "height": 720,
+      "sha256": "d0d3159e87bcc5500fd611ac7268f0d370507ca87b51076767714998045f6791",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00069.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/5234013/2a0000018486f97f0b51a15849896006c0c3/XXXL",
+      "source_width": 720,
+      "source_height": 1280,
+      "width": 720,
+      "height": 720,
+      "sha256": "2749ea00ae738f43d7cdcc5551c05c9ee1db4950612c45277862fd14f66a2d54",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00070.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/13193546/2a0000018fed136ce3e96704b96a8327684f/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "65e7507b21df3bfe0084adc6fface0ade21e8606a330cfa5a671e306173407cb",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00071.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/6310045/2a00000190696013ebb1e1dbf600fad69fe3/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "64d23584d646f74a11ca4190c1c061c156f9938b263c025f09f5ab21d452031d",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00072.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/5115998/2a0000018e9082f4056ec00e4c4f2c441913/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "f2c93e84d78145565bb62be8007089c45f4212aa2d8028bc500efa264ae15933",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00073.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/8075227/2a000001871e8777df0549e52654f7f1ddea/XXXL",
+      "source_width": 1280,
+      "source_height": 1256,
+      "width": 1256,
+      "height": 1256,
+      "sha256": "c5c92576d968a4476158ff4526b33018bbfe4d76b0a88e6ed679aaf7d7ec1134",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00074.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/7982580/2a0000018486fc5497ddafc5f69a2babe4d7/XXXL",
+      "source_width": 736,
+      "source_height": 981,
+      "width": 736,
+      "height": 736,
+      "sha256": "a667bc23b57a377f8496b65495e2f2091ad9e2fcad0c2e58d58111672aa42122",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00075.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/12548008/2a0000018f02b6e25c730afbd772eeec061c/XXXL",
+      "source_width": 1280,
+      "source_height": 960,
+      "width": 960,
+      "height": 960,
+      "sha256": "7e9b768b079108d06909b1f6f6aeacf55be73ad5c27dc63c481fb4948bbab7ab",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00076.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d8549a442b495269ddf81e5f860/XXXL",
+      "source_width": 750,
+      "source_height": 815,
+      "width": 750,
+      "height": 750,
+      "sha256": "f06476f44d914eceac2def34de8ded34009a97add02f88c1200d966aa1fe20db",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00077.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/10648814/2a0000018a89bf875317c80fa5f9a58fcff3/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "83c2609c2a19601c546e0448a6b6f80935a282d504b95b3d6182c5cee0629934",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00078.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/5479384/2a0000017d85496a660df82a25d63e03a404/XXXL",
+      "source_width": 667,
+      "source_height": 1000,
+      "width": 667,
+      "height": 667,
+      "sha256": "dbe8cacc6949508a9d2316b9f84d3e7a0b2748f82b19090bc390454468910c16",
+      "categories": [
+        "Все"
+      ]
+    },
+    {
+      "file": "gallery.00079.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/2815220/2a00000173dd2fbc6f7c19b3de4004a49611/XXXL",
+      "source_width": 960,
+      "source_height": 1280,
+      "width": 960,
+      "height": 960,
+      "sha256": "11dfdf11837c8a4107a841449d846ea43954b2ddc86a7c4d1b4fb28513c485f7",
+      "categories": [
+        "Все"
+      ]
+    }
+  ],
+  "suggested_main_file": "",
+  "raw_sections": {
+    "overview": {
+      "url": "https://yandex.com/maps/org/salon_krasoty/174918939445/?ll=37.778552%2C55.945411&z=13",
+      "title": "Салон красоты, салон красоты, Стрелковая ул., 21, Мытищи — Яндекс Карты",
+      "heading": "Салон красоты",
+      "meta": "Салон красоты «Салон красоты» — «Хорошее место» по оценкам пользователей — по адресу Московская область, Мытищи, Стрелковая улица, 21, ☎️ +7 985 313 54 33. Читать 144 отзыва, смотреть 144 фото, панорамы, часы работы. Построить маршрут в Яндекс Картах.",
+      "text": "Поиск\nМаршруты\nКарты · Мытищи · Салоны красоты\nСалон красоты\nРейтинг \n4,6\n183 оценки\nНаграды:\nХорошее место 2026\nЗакрыто до 10:00\n+7 (985) 313-54-33\nПоказать телефон\nСтрелковая ул., 21, Мытищи\nМаршрут\nЗаписаться онлайн\nДобавить фото или видео\nЕще 154\nОбзор\nТовары и услуги\nНовости\n7\nФото\n164\nОтзывы\n144\nФилиалы\nОсобенности\nПохожие места\nТовары и услуги\nДавно не обновлялось\nОкрашивание волос в технике\nЦены от 5000₽-12.000₽ в зависимости от длины\n5000 ₽\nМужские стрижки\nМужские стрижки от 500₽\n500 ₽\nКаре\n1500 ₽\nСтрижка лесенка\n1500 ₽\nМаникюр+ покрытие гель лак с дизайном\nВ Мытищах мы предлагаем профессиональный маникюр. Наши услуги доступны по адресу: Стрелковая улица. Мы используем технику маникюра в 4 руки.\n2500 ₽\nМакияж\nПрофессиональный макияж в Мытищах: услуги визажиста рядом с вашим домом.\n2500 ₽\nКолористика\nПрофессиональный колорист в Мытищах! Превращаю ваши идеи в яркие и живые цвета! Подберу идеальный оттенок для вашего интерьера, одежды или волос. Использую только качественные краски и материалы. Гарантирую отличный результат. Запис...\n10000 ₽\nМаникюр с покрытием гель лак\nУслуга по уходу за ногтями в Мытищах — Магия, что дарит нежность и покой. Красота в каждом штрихе, блеск в каждом взгляде, Руки твои станут легкими, как сон.\n2200 ₽\nМаникюр с покрытием гель лак + френч\n2600 ₽\nСложное окрашивание\nСложное окрашивание в Мытищах. Колористика в Мытищах.\n6000 ₽\n12 000 шт.\nПосмотреть все товары и услуги\nПосмотреть все товары и услуги\nАдрес\nСтрелковая ул., 21, Мытищи\nМаршрут\nКонтакты\n+7 (985) 313-54-33\nПоказать телефон\nВремя работы\nЗакрыто до 10:00\nГрафик\nВсе филиалы сети\nИсправить неточность\nКак добраться\nСтрелковая улица\n96 м\n4\nПоказать парковки\nОсобенности\nСалон красоты\nНогтевая студия\nПарикмахерская\nМаникюр\nОплата картой\nПарковка\nWi-Fi\nПедикюр\nПодарочный сертификат\nПарикмахерские услуги:окрашивание, тонирование, кератиновое выпрямление, колорирование, французские косички, для детей, вечерняя/свадебная укладка, локоны/керли, лечение волос, мелирование, укладка, стрижка, омбре, нанопластика\nСпособ оплаты:наличными, онлайн, оплата кредитной картой\nАкции:скидки, акции, спецпредложения, бонусы, подарки\nКлассический женский маникюр с покрытием:800–1000 ₽\nПарковка для людей с инвалидностью\nПодробнее об организации\nПанорама\nПанорама\nВы владелец этой организации?\nПосещаемость и график работы\n02:00Закрыто\nПн\nВт\nСр\nЧт\nПт\nСб\nВс\nНаграды\nХорошее место 2026\nНаграда для любимых мест пользователей Яндекс Карт\nРейтинг \n4,6\n183 оценки\nОцените это место\n144 отзыва\nПо умолчанию\nПерсонал ·\n78%\nположительный\n124 отзыва\nМаникюр ·\n79%\nположительный\n94 отзыва\nВремя ожидания ·\n70%\nположительный\n50 отзывов\nПедикюр ·\n87%\nположительный\n31 отзыв\nКомпетентность ·\n82%\nположительный\n28 отзывов\nАтмосфера ·\n94%\nположительный\n16 отзывов\nУход за бровями ·\n100%\nположительный\n11 отзывов\nмаруся самохина\nЗнаток города 5 уровня\nПодписаться\n9 апреля\nОчень довольна результатом!\nМаникюр просто идеальный аккуратный, стильный, выполнен с любовью к деталям. Покрытие ровное, держится отлично, форма ногтей подобрана идеально — не могу налюбоваться!\n\nОтдельное спасибо за стрижку и окрашивание — это восторг 😍\nЦвет получился именно такой, как я хотела: насыщенный, живой и очень красивый. Стрижка освежила образ, волосы выглядят ухоженными и лёгкими.\n\nМастера настоящие профессионалы своего дела! Обязательно вернусь снова и буду советовать всем 💖\nПосмотреть ответ организации\nТатьяна\nЗнаток города 5 уровня\nПодписаться\n14 декабря 2025\nДобрый вечер! Хочу выразить благодарность за стрижку и окрашивание волос мастеру Наре. Хожу к ней уже полтора года и каждый раз она с вниманием и особым трепетом относится к своей клиентам!!!! Всегда и посоветует что-то по уходу за волосами, окрашивание это вообще \" отдельная тема\" она так подбирает цвета, что сидишь и думаешь \" да это действительно то что я хотела\". Спасибо вам большое! Такие мастера на вес золота!!!\nТакже была на педикюре тоже понравилось, все сделали аккуратно и красиво) Спасибо\n1\nПосмотреть ответ организации\nГалюня Кокорева\nЗнаток города 4 уровня\nПодписаться\n7 июня 2025\nПосещение мастера маникюра Елены стало для меня настоящим открытием !\n\nНачну с того, что сама процедура прошла легко и непринужденно благодаря приятному общению и профессиональному подходу. Елена внимательно выслушала мои предпочтения и предложила оптимальные решения. Результат превзошел ожидания — маникюр выглядит потрясающе, цвета подобраны идеально, форма ногтей аккуратная и естественная.\n\nРекомендую всем, кто ценит профессиональный подход и высокое качество услуг! 😍\n1\nПосмотреть ответ организации\nПосмотреть все 144 отзыва\nСообщить об ошибке\nСправка\nСервисы\nМаршруты\nПробки\nРедактор Яндекс Карт\nСхема Метро\nСоздать карту\nAPI Карт\nПерсональное\nЗакладки и мой транспорт\nМои карты\nНастройки\nДля бизнеса\nЛичный кабинет\nДобавить свою организацию\nО сервисе\nПользовательское соглашение\nЯндекс Карты — выбирайте, где поесть, куда сходить, чем заняться.\n© 2001–2026 ООО «Яндекс»\nИсточник данных",
+      "links": [
+        {
+          "text": "Маршруты",
+          "href": "https://yandex.com/maps/10740/mytischi/routes/"
+        },
+        {
+          "text": "Карты",
+          "href": "https://yandex.com/maps/"
+        },
+        {
+          "text": "Мытищи",
+          "href": "https://yandex.com/maps/10740/mytischi/"
+        },
+        {
+          "text": "Салоны красоты",
+          "href": "https://yandex.com/maps/10740/mytischi/category/beauty_salon/184105814/"
+        },
+        {
+          "text": "Стрелковая ул., 21, Мытищи",
+          "href": "https://yandex.com/maps/10740/mytischi/house/strelkovaya_ulitsa_21/Z04YcQBoTU0PQFtvfXV1dHhrbA==/"
+        },
+        {
+          "text": "Обзор",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/"
+        },
+        {
+          "text": "Товары и услуги",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/prices/"
+        },
+        {
+          "text": "Фото",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/gallery/"
+        },
+        {
+          "text": "Отзывы",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/"
+        },
+        {
+          "text": "Похожие места",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/related/"
+        },
+        {
+          "text": "Стрелковая ул., 21, Мытищи",
+          "href": "https://yandex.com/maps/10740/mytischi/house/strelkovaya_ulitsa_21/Z04YcQBoTU0PQFtvfXV1dHhrbA==/"
+        },
+        {
+          "text": "Соцсети, whatsapp",
+          "href": "https://wa.me/79853135433?text=%D0%9E%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B8%D0%B7+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81+%D0%9A%D0%B0%D1%80%D1%82%0A%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE+%D0%B2%D0%B0%D1%88%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5"
+        },
+        {
+          "text": "Соцсети, viber",
+          "href": "https://viber.click/89853135433"
+        },
+        {
+          "text": "Соцсети, vkontakte",
+          "href": "https://vk.ru/club175390765"
+        },
+        {
+          "text": "Все филиалы сети",
+          "href": "https://yandex.com/maps/10740/mytischi/chain/beauty_salon/97304282889/"
+        },
+        {
+          "text": "Стрелковая улица",
+          "href": "https://yandex.com/maps/10740/mytischi/stops/5463660107/"
+        },
+        {
+          "text": "Стройперлит",
+          "href": "https://yandex.com/maps/10740/mytischi/stops/stop__9689053/"
+        },
+        {
+          "text": "Школа № 9",
+          "href": "https://yandex.com/maps/10740/mytischi/stops/stop__9692125/"
+        },
+        {
+          "text": "Угольная улица",
+          "href": "https://yandex.com/maps/10740/mytischi/stops/stop__9689763/"
+        },
+        {
+          "text": "Челюскинская",
+          "href": "https://yandex.com/maps/10740/mytischi/stops/station__lh_9602281/"
+        },
+        {
+          "text": "Салон красоты",
+          "href": "https://yandex.com/maps/10740/mytischi/category/beauty_salon/184105814/"
+        },
+        {
+          "text": "Ногтевая студия",
+          "href": "https://yandex.com/maps/10740/mytischi/category/nail_salon/20476284572/"
+        },
+        {
+          "text": "Парикмахерская",
+          "href": "https://yandex.com/maps/10740/mytischi/category/hairdresser/184105812/"
+        },
+        {
+          "text": "Подробнее об организации",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/?tab=features"
+        },
+        {
+          "text": "Панорама",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/panorama/"
+        },
+        {
+          "text": "Вы владелец этой организации?",
+          "href": "https://yandex.com/sprav/search?permalink=174918939445"
+        },
+        {
+          "text": "Хорошее место 2026\nНаграда для любимых мест пользователей Яндекс Карт",
+          "href": "https://yandex.ru/project/maps/goodplace/"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/ev8mfejhu1kya6yu0v8y4tzky4"
+        },
+        {
+          "text": "маруся самохина",
+          "href": "https://yandex.com/maps/user/ev8mfejhu1kya6yu0v8y4tzky4"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/4hrucjvy6cx9xh4p70j6xc6ybw"
+        },
+        {
+          "text": "Татьяна",
+          "href": "https://yandex.com/maps/user/4hrucjvy6cx9xh4p70j6xc6ybw"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/t5b01br4mwr6mwvk6z9kxjvza0"
+        },
+        {
+          "text": "Галюня Кокорева",
+          "href": "https://yandex.com/maps/user/t5b01br4mwr6mwvk6z9kxjvza0"
+        },
+        {
+          "text": "Справка",
+          "href": "https://yandex.com/support/maps/?lang=ru"
+        },
+        {
+          "text": "Редактор Яндекс Карт",
+          "href": "https://mapeditor.yandex.com/"
+        },
+        {
+          "text": "Схема Метро",
+          "href": "https://yandex.com/metro/"
+        },
+        {
+          "text": "Создать карту",
+          "href": "https://yandex.com/map-constructor/"
+        },
+        {
+          "text": "API Карт",
+          "href": "https://tech.yandex.com/maps/"
+        },
+        {
+          "text": "Мои карты",
+          "href": "https://yandex.com/map-constructor/"
+        },
+        {
+          "text": "Настройки",
+          "href": "https://yandex.com/tune/?retpath=https%3A%2F%2Fyandex.com%2Fmaps%2Forg%2Fsalon_krasoty%2F174918939445%2F%3Fll%3D37.778552%252C55.945411%26z%3D13"
+        },
+        {
+          "text": "Личный кабинет",
+          "href": "https://business.yandex.ru/"
+        },
+        {
+          "text": "О сервисе",
+          "href": "https://yandex.com/support/maps/"
+        },
+        {
+          "text": "Пользовательское соглашение",
+          "href": "https://yandex.com/legal/maps_termsofuse/?lang=ru"
+        },
+        {
+          "text": "vkontakte",
+          "href": "https://vk.com/yandex.maps"
+        },
+        {
+          "text": "telegram",
+          "href": "https://t.me/mapsyandex"
+        },
+        {
+          "text": "zen",
+          "href": "https://zen.yandex.ru/yandexmaps"
+        }
+      ]
+    },
+    "services": {
+      "url": "https://yandex.com/maps/org/salon_krasoty/174918939445/prices/?ll=37.778552%2C55.945411&z=13",
+      "title": "Цены «Салон красоты» в Мытищах — Яндекс Карты",
+      "heading": "Салон красоты",
+      "meta": "Актуальные цены «Салон красоты» в Мытищах: описание, фотографии, телефоны и отзывы — Яндекс Карты.",
+      "text": "Поиск\nМаршруты\nСалон красоты\nОбзор\nТовары и услуги\nНовости\n7\nФото\n164\nОтзывы\n144\nФилиалы\nОсобенности\nПохожие места\nБез категории\nОкрашивание волос\nБез категории\nКоррекция + окрашивание бровей\nКоррекция + окрашивание бровей люксовым материалом\n1290 ₽\nОкрашивание волос в технике\nЦены от 5000₽-12.000₽ в зависимости от длины\n5000 ₽\nМаникюр + покрытие\n2100 ₽\nМелирование волос\nМелирование волос, тонирование волос Окрашивание волос Мытищи\n3000 ₽\n5 900 шт.\nМужские стрижки\nМужские стрижки от 500₽\n500 ₽\nКаре\n1500 ₽\nСтрижка лесенка\n1500 ₽\nФренч\nМаникюр дизайн френч Маникюр Мытищи Педикюр Мытищи\n400 ₽\nМужская модельная стрижка\n800 ₽\nМаникюр+ покрытие гель лак с дизайном\nВ Мытищах мы предлагаем профессиональный маникюр. Наши услуги доступны по адресу: Стрелковая улица. Мы используем технику маникюра в 4 руки.\n2500 ₽\nМакияж\nПрофессиональный макияж в Мытищах: услуги визажиста рядом с вашим домом.\n2500 ₽\nКолористика\nПрофессиональный колорист в Мытищах! Превращаю ваши идеи в яркие и живые цвета! Подберу идеальный оттенок для вашего интерьера, одежды или волос. Использую только качественные краски и материалы. Гарантирую отличный результат. Запис...\n10000 ₽\nМаникюр с покрытием гель лак\nУслуга по уходу за ногтями в Мытищах — Магия, что дарит нежность и покой. Красота в каждом штрихе, блеск в каждом взгляде, Руки твои станут легкими, как сон.\n2200 ₽\nМаникюр с покрытием гель лак + френч\n2600 ₽\nЛаминирование бровей\nЛаминирование бровей в Мытищах Брови в Мытищах Архитектура бровей в Мытищах\n1200 ₽\nПедикюр с покрытием гель лак\n2700 ₽\nПедикюр+покрытие дизайн френч\n2900 ₽\nОкрашивание волос\nОкрашивание волос в Мытищах Профессиональная окраска волос в разных техниках. Мы находимся на улице Стрелковой, дом 21.\n3000 ₽\nОкрашивание волос\nСложное окрашивание\nСложное окрашивание в Мытищах. Колористика в Мытищах.\n6000 ₽\n12 000 шт.\nДавно не обновлялось. Источник: Представитель организации\nЗаписаться онлайн",
+      "links": [
+        {
+          "text": "Маршруты",
+          "href": "https://yandex.com/maps/10740/mytischi/routes/"
+        },
+        {
+          "text": "Обзор",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/"
+        },
+        {
+          "text": "Товары и услуги",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/prices/"
+        },
+        {
+          "text": "Фото",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/gallery/"
+        },
+        {
+          "text": "Отзывы",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/"
+        },
+        {
+          "text": "Похожие места",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/related/"
+        }
+      ]
+    },
+    "reviews": {
+      "url": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/?ll=37.778552%2C55.945411&z=13",
+      "title": "Отзывы о «Салон красоты», Московская область, Мытищи, Стрелковая улица, 21 — Яндекс Карты",
+      "heading": "Салон красоты",
+      "meta": "Рейтинг 4,6 на основе 183 оценок и 144 отзывов о салоне красоты «Салон красоты», Московская область, Мытищи, Стрелковая улица, 21. Посетителям нравятся персонал, маникюр и время ожидания. Награды: «Хорошее место 2026». Напишите свой отзыв о салоне красоты.",
+      "text": "Поиск\nМаршруты\nСалон красоты\nОбзор\nТовары и услуги\nНовости\n7\nФото\n164\nОтзывы\n144\nФилиалы\nОсобенности\nПохожие места\nНаграды\nХорошее место 2026\nНаграда для любимых мест пользователей Яндекс Карт\nРейтинг \n4,6\n183 оценки\nОцените это место\n144 отзыва\nПо умолчанию\nПерсонал ·\n78%\nположительный\n124 отзыва\nМаникюр ·\n79%\nположительный\n94 отзыва\nВремя ожидания ·\n70%\nположительный\n50 отзывов\nПедикюр ·\n87%\nположительный\n31 отзыв\nКомпетентность ·\n82%\nположительный\n28 отзывов\nАтмосфера ·\n94%\nположительный\n16 отзывов\nУход за бровями ·\n100%\nположительный\n11 отзывов\nмаруся самохина\nЗнаток города 5 уровня\nПодписаться\n9 апреля\nОчень довольна результатом!\nМаникюр просто идеальный аккуратный, стильный, выполнен с любовью к деталям. Покрытие ровное, держится отлично, форма ногтей подобрана идеально — не могу налюбоваться!\n\nОтдельное спасибо за стрижку и окрашивание — это восторг 😍\nЦвет получился именно такой, как я хотела: насыщенный, живой и очень красивый. Стрижка освежила образ, волосы выглядят ухоженными и лёгкими.\n\nМастера настоящие профессионалы своего дела! Обязательно вернусь снова и буду советовать всем 💖\nПосмотреть ответ организации\nТатьяна\nЗнаток города 5 уровня\nПодписаться\n14 декабря 2025\nДобрый вечер! Хочу выразить благодарность за стрижку и окрашивание волос мастеру Наре. Хожу к ней уже полтора года и каждый раз она с вниманием и особым трепетом относится к своей клиентам!!!! Всегда и посоветует что-то по уходу за волосами, окрашивание это вообще \" отдельная тема\" она так подбирает цвета, что сидишь и думаешь \" да это действительно то что я хотела\". Спасибо вам большое! Такие мастера на вес золота!!!\nТакже была на педикюре тоже понравилось, все сделали аккуратно и красиво) Спасибо\n1\nПосмотреть ответ организации\nГалюня Кокорева\nЗнаток города 4 уровня\nПодписаться\n7 июня 2025\nПосещение мастера маникюра Елены стало для меня настоящим открытием !\n\nНачну с того, что сама процедура прошла легко и непринужденно благодаря приятному общению и профессиональному подходу. Елена внимательно выслушала мои предпочтения и предложила оптимальные решения. Результат превзошел ожидания — маникюр выглядит потрясающе, цвета подобраны идеально, форма ногтей аккуратная и естественная.\n\nРекомендую всем, кто ценит профессиональный подход и высокое качество услуг! 😍\n1\nПосмотреть ответ организации\nНаталья Королева\nЗнаток города 6 уровня\nПодписаться\n25 июля 2025\nЗашла случайном в салон чтоб отремонтировать пару ноготков и приятно была удивлена, что мне не отказали в ремонте в этот же день! Мастер Марьям обслужила быстро и с улыбкой, работой довольна взяла номер администратора приду в следующий раз на маникюр! Спасибо Марьям даже лак подобрали в тон)\nПосмотреть ответ организации\nДарья Г.\nЗнаток города 5 уровня\nПодписаться\n1 июля 2025\nПосещала данный салон с января этого года. В начале всё было отлично, мастер Аяна прекрасно делала маникюр. Но потом Аяна ушла и начались постоянные проблемы. Каждый раз, каждый!, разные мастера. Каждый раз администратор при записи говорит, что это ОЧЕНЬ хороший мастер. Каждый раз мне кромсали кутикулу так, как будто зарезать меня пытались.\nВ последний раз была в субботу, вчера, в понедельник, покрытие почти полностью отошло. Прошло двое суток. Мастер совсем новичок. Но ей надо отдать должное, хоть одна не резала мои пальцы.\nЕдинственный плюс, который могу выделить, - можно записаться почти на любое время. Если нужно прямо сегодня - организуют. Но качество оставляет желать лучшего.\n\nОчень настырно администратор/хозяйка несколько раз просила меня оставить отзыв, как чувствовала, что надо немного подождать.\n\nБольше в данный салон не пойду. Каждый раз не знаешь, чего ожидать.\n1\nПосмотреть ответ организации\nAnnet Aaa\nЗнаток города 3 уровня\nПодписаться\n23 января\nОчень приятная атмосфера в студии, а сама Мастер маникюра Марина — просто волшебница! С ней очень комфортно и нескучно. Она учла все мои пожелания, дала полезные советы по уходу. Время пролетело незаметно, а результат превзошел все ожидания. Спасибо за красоту и позитив!».\nПосмотреть ответ организации\nКишмиш С.\nЗнаток города 4 уровня\nПодписаться\n11 декабря 2025\nБыла на маникюре и на окрашивание волос , сделали в 4 руки , очень большая политра цветов , администратор очень оперативно подобрала окошки , очень красивая мини студия , вернусь к вам снова 👌\n1\nПосмотреть ответ организации\nИнкогнито 4276\nЗнаток города 6 уровня\nПодписаться\n29 декабря 2025\nПосмотрела работы в\nобьявлении, хорошие, пришла с\nзапросом в котором мне сразу\nотказали, мастер не умеет делать\nдизайн,а может только покрыть, нужно\nбыло отремонтировать один ноготь, с\nгорем пополам нарастили один\nноготь, условия так себе (холодно), так\nже время исполнения, узнавала\nизначально, чтобы расчитывать и\nстроить планы, в итоге получилось не\n1:30 как обещали,а 2,5 часа\nСделали отвратительно,половина ногтя покрыта топом,половина нет,бугры,форму не сделали как просила,просто ужасно,ещё и такие деньги содрали😳 просто ужас,испортили просто всё.\n1\nАнюа Скворцова\nЗнаток города 5 уровня\nПодписаться\n3 декабря 2025\nСказать, что это худший салон в моей жизни, ничего не сказать.\nПолное отсутствие клиентоориентированности.\nМне не сделали маникюр, а просто отодрали покрытие. Выбора цвета нету от слова совсем. Палитра из 10 цветов.\nХотела однотонные розовое покрытие, на что мне было, сказано, что такого цвета нету и предложили выбрать из синего и зелёного. На моё не согласие, мне четко дали понять, что это мои проблемы и мы можем на этом закончить, при этом за мой счёт. Прежде чем записаться в этом салон девочки, сто раз подумайте!!!\n\n2\nПосмотреть ответ организации\nЕвгения С.\nЗнаток города 5 уровня\nПодписаться\n11 сентября 2025\nУютненько,цены адекватные. Выбор цветов большой. Мастер очень аккуратно сделала педикюр.Удобное расположение есть парковка. Я довольна.\nХожу сюда уже второй год. Всегда отличное качество. Быстрая запись.\n1\nПосмотреть ответ организации\nГнар Аташян\nЗнаток города 2 уровня\nПодписаться\n24 июля 2025\nСегодня была на маникюре, мне все очень понравилось, салон очень чистый, и опрятный, персонал просто прекрасный, вкусный кофе ☕️ приятная беседа, Мастер Марьям сделала хорошую работу мне все очень понравилось, приду снова 🌺\n1\nПосмотреть ответ организации\nСюзанна Сафарян\nЗнаток города 3 уровня\nПодписаться\n28 мая 2025\nОгромное спасибо за безупречный маникюр! Мастер уделила внимание каждой детали, обработала кутикулу аккуратно, покрытие легло идеально. Очень приятная атмосфера в салоне, все стерильно и красиво.\n1\n1\nГозал Калашан\nЗнаток города 3 уровня\nПодписаться\n4 августа 2025\n\n\nПосетила этот салон для маникюра и осталась очень довольна работой мастера Марьям. Она внимательная, дружелюбная и точно понимает, чего хочешь. Маникюр сделан аккуратно и держится отлично. Атмосфера в салоне приятная, рекомендую всем! 😊\nПосмотреть ответ организации\nМилена Калоян\nЗнаток города 2 уровня\nПодписаться\n29 июня 2025\nПотрясающий салон! Посетила впервые и осталась в полном восторге!\n\nПрофессионализм мастеров просто восхищает. Каждый специалист — настоящий эксперт в своём деле. От маникюра до педикюра — всё выполнено безупречно, с учётом всех моих пожеланий.\n1\nПосмотреть ответ организации\nАнастасия Е.\nЗнаток города 4 уровня\nПодписаться\n2 июня 2025\nУютный маленький салон прям рядом с домом. Маникюр вышел безупречный, идеально ровный и аккуратный, мастер учла все пожелания и помогла выбрать самый идеальный цвет. Однозначно буду ходить ещё.\nПосмотреть ответ организации\nКристина Овчаренко\nЗнаток города 7 уровня\nПодписаться\n30 мая 2025\nНа троечку, не выше, делала маникюр так он отходил на второй третий день, мебель вся обшарпанная, мастера маникюра сидят опутанные проводами от переносок ни чая ни кофе не предлагают, на всех стенах и в Яндексе написано что акция для новых клиентов, но по факту ее нет\nПосмотреть ответ организации\nГузаля Исмаилова\nЗнаток города 3 уровня\nПодписаться\n22 ноября 2025\nБольшое спасибо за отличный маникюр! Очень ценно, когда работа сделана качественно, а сам процесс проходит в спокойной и комфортной обстановке. Ноготки выглядят безупречно, покрытие идеальное. Очень довольна результатом!\n\n1\n2\nПосмотреть ответ организации\nданя (жирный)\nЗнаток города 3 уровня\nПодписаться\n22 ноября 2025\nБыл на услуге мужская стрижка, получилось именно так как я хотел.Мастер всё сделал аккуратно и профессионально, очень доволен результатом. Обязательно вернусь снова!\n2\nПосмотреть ответ организации\nМария З.\nЗнаток города 7 уровня\nПодписаться\n22 июня 2025\nСходила в этот салон, ужаснулась и больше не приду сюда ни за что. Салон отвратительный, все грязное, в пятнах, старое и пошарпанное, инструменты повсюду ржавые и грязные, полнейшая антисанитария! В обработке инструментов я сомневаюсь вообще. Воды нет, ничего не предлагают. Я как зашла сразу ужаснулось и было желание просто убежать оттуда. Такого салона страшного я никогда не встречала! Клиент пришел, мастер стоит на улице и докуривает сигарету, видя клиента, но полностью показывая свое неуважение. Типа жди пока я докурю. Отношение к клиентам «на лицо». Никому не рекомендую это ужасное место!\n2\nсусанна Надирова\nЗнаток города 3 уровня\nПодписаться\n24 июля 2025\nочень понравился салон, читстоа и уют создают приятную атмосферу, в которую хочется возвращаться! Также хочу отметить доброту и внимательность персонал. Работа Марьям мне понравилась, буду стараться приходить почаще🌺\nПосмотреть ответ организации\nКовалева Софья\nЗнаток города 5 уровня\nПодписаться\n30 марта 2024\nСалон неплохой.\n1й раз делала у другого мастера за последние лет 5.\nВ связи с переездом, искала салон недалеко от дома.\n\nМастер сделала работу бережно и качественно. Трепетно и терпеливо исправила работу старого мастера.\nСделала новую форму и сделала небольшой дизайн.\n\nПосмотрим как будут в носке)\n\n\n3\n3\nArinochka2211\nЗнаток города 4 уровня\nПодписаться\n10 мая 2025\nНедавно посетила салон для процедуры маникюра, и хочу поделиться своим опытом!\n\n🌸 Мастер оказалась очень профессиональной и внимательной. Весь процесс проходил в комфортной атмосфере, были учтены все мои пожелания.\n\n💅 Я осталась в полном восторге от результата!\nВсем советую:)\n1\nПосмотреть ответ организации\nАнастасия П.\nЗнаток города 7 уровня\nПодписаться\n10 апреля 2024\nХороший салон, удобное расположение! Хожу уже больше двух лет, все на высшем уровне! Делаю маникюр и педикюр у проверенного топ мастера Манэ! Очень качественные работы за короткий промежуток времени. Также всегда подстроятся под клиента, если нет возможности подойти. 5 звезд!\n2\n2\nПосмотреть ответ организации\nВлада Арутюнова\nЗнаток города 5 уровня\nПодписаться\n20 марта 2025\nСалон чистый, близко расположен к дому\nАдминистратор Диана всегда по доброму и всегда предлагает какие то скидочки\n2 года делаю у них маникюр\nМне все очень нравится )\n1\nПосмотреть ответ организации\nМ\nМария Трайзе\nЗнаток города 2 уровня\nПодписаться\n11 декабря 2024\nНе рекомендую. Каждое посещение всё не так, то нет матового топа, то просят перенести мою запись. То вообще записываешься заранее, а они говорят за несколько часов, что у мастера выходной в этот день, и что на сайте у них неактуальное расписание! Про Подтверждение записи всегда пишут ночью, а у меня маленький ребенок. Ужасный сервис. И по салону много потертостей, недочетов.\n3\nПосмотреть ответ организации\nВиктория Рыжова\nЗнаток города 5 уровня\nПодписаться\n30 апреля 2025\nВсем привет.\nХодила на наращивание в эту студию месяц назад. Наращивание сделали не той формы, что была оговорена в начале. В добавок - через 5 дней посыпались отслойки с последующим отваливанием ногтей.\n\nСпустя месяц, написал администратор или хозяин данной студии - сказали, что мастера уволили и этой студии шансы на реабилитацию не нужны. Сказали давать шансы другим студиям, что я сразу советую делать.\n2\nПосмотреть ответ организации\nирина ч.\nЗнаток города 7 уровня\nПодписаться\n22 апреля 2024\nСегодня была на маникюре у мастера Светланы. Работа мастера понравилась. Красиво, качественно и не долго. Сразу же записалась на май : маникюр + педикюр. Если вы ещё не определились с выбором мастера маникюра, советую обратить внимание на Светлану, приятная девушка , отличная работа!\n1\n3\nПосмотреть ответ организации\nМария В.\nЗнаток города 4 уровня\nПодписаться\n1 декабря 2024\nМанэ в салоне на Стрелковой, 21 – замечательный мастер, видно, что профи – работает довольно быстро, но при этом без спешки, и очень качественно. Зашла как-то случайно, теперь стараюсь ходить к Манэ постоянно, благо недалеко живу.\nЛюдмила И.\nЗнаток города 2 уровня\nПодписаться\n17 июня 2024\nХожу в салон уже больше четырех лет, все на высшем уровне! Делаю маникюр и педикюр у первоклассного топ мастера Манэ! Манэ точно мастер своего дела, никогда меня не подводила, всегда подскажет, посоветует, всегда качество на высоте. Также хочется отметить администратора Диану, всегда на связи и обязательно заблаговременно напомнит о записи. Очень хороший салон, спасибо за отличную работу!!!\n2\n2\nПосмотреть ответ организации\nДина Н.\nЗнаток города 7 уровня\nПодписаться\n21 июня 2024\nОчень понравилось у мастера Манэ, делала у нее педикюр. Быстро, качественно, огромный выбор цветов, не обычная процедура smart педикюра воском свечи, нигде больше не встречала. Буду ходить постоянно. Спасибо за Вашу работу.\n1\n2\nПосмотреть ответ организации\nМария\nЗнаток города 5 уровня\nПодписаться\n25 июля 2024\nХожу в данный салон больше трёх лет к мастеру Манэ. Маникюр и педикюр делает аккуратно, а главное быстро. Вежливая и учтивая. Большой выбор лака, а главное демократичные цены. Советую к посещению.\n2\n1\nПосмотреть ответ организации\nDavit Manukyan\nЗнаток города 3 уровня\nПодписаться\n6 апреля 2024\nМаникюр понравился, все очень хорошо профессионально сделано, подобрали подходящий цвет как и хотела)Светлана все делала аккуратно, атмосфера домашняя,располагает)Время пролетело незаметно,спасибо вам большое!! Общительная, отзывчивая, добрая))поговорили по душам! Понравилось все. Светлана -хороший профессионал.\n1\n1\nПосмотреть ответ организации\nМаргарита С.\nЗнаток города 5 уровня\nПодписаться\n31 октября 2025\nБыла у мастера Марии на наращивании ногтей: очень быстро и качественно сделали наращивание!\nПосмотреть ответ организации\nКристина Н.\nЗнаток города 7 уровня\nПодписаться\n2 июля 2024\nТак и не попала в эту студию. Сначала записалась на одно время, пишут «приходите в другое». Перезаписалась в приложении на воскресенье, а мне пишут, что оказывается это выходной. В итоге записалась на понедельник, но за пару часов до записи пишут «ваш мастер заболел». Замену сделать не смогли. В общем за сервис 2 звезды. Качество маникюра оценить не удалось, к сожалению. Больше не буду пытаться сюда записываться\n3\nАнна\nЗнаток города 2 уровня\nПодписаться\n2 июля 2024\nНе советую посещение данного салона.\nВо-первых,очень грязно,возникают вопросы к обработке инструментов. Мастера маникюра делают очень некачественную работу. Хотите толстый слой в виде «пирожков» на руках,который в течение пары дней отвалится-вам сюда. Впечатление еще больше портится от отношения мастеров к клиентам,ощущение что ты приходишь и сразу должен. Администратора на ресепшене нет,свойский салон,в котором работают неквалифицированные мастера,под график которых клиент должен подстраиваться в виду их домашних дел.\n5\nПосмотреть ответ организации\nКочеткова Я.\nЗнаток города 4 уровня\nПодписаться\n30 июля 2023\nХожу сюда уже давно . С тех пор как нашла этот салон только сюда. Рядом с домом. Маникюр делает мне Манэ я всегда довольна . Очень аккуратный мастер . Помогла подобрать покрытие которое приняли мои ногти.\nС недавних пор делаю ещё брови у Дианы. Доверилась и не пожалела. Очень хорошо красиво делает.\nНаринэ мастер по волосам. Тоже очень внимательно относится, бережно к волосам, советует правильный уход. Помогла выбрать правильный цвет.\nВ целом салон нравится. Уютно.\nОчень человеческое отношение и адекватные цены.\n2\nMargaran\nЗнаток города 5 уровня\nПодписаться\n6 апреля 2024\nВсем привет! Делала маникюр у этого мастера уже не один раз и каждый раз ухожу от нее счастливой и довольной!! Каждый новый маникюр лучше прежнего. Очень приятно и комфортно, когда пальчики выглядят аккуратно и женственно. Большое спасибо Светлане за работу выполненную с душой и заботой. Теперь Вы мой мастер на все случаи жизни!☺️✨\n2\nanutamaii2017\nЗнаток города 5 уровня\nПодписаться\n11 февраля 2024\nХодила в салон специально к топ-мастеру, цена у него естественно выше, чем у просто специалистов. Мастер Мане, которую так тут хвалят. Маникюр получился красивый и быстро. Но в итоге, через неделю ногти на указательных пальцах отслоились, ещё через 3 дня и на больших пальцах, пошли и следующие. . Получилось 1,5 недели за 2100руб. Считаю очень дорого и непрофессионально. На фото конечно не получилось отразить весь ужас спустя 2 недели.\n4\nПосмотреть ответ организации\nЕлена Клепикова\nЗнаток города 6 уровня\nПодписаться\n22 сентября 2024\nМаникюр нужно было сделать срочно и я позвонила в этот салон. Подобрали очень удобное для меня время. Маникюр понравился. Делала мне девочка Маня. Спасибо ей огромное. Все сделано аккуратно.\n1\nПосмотреть ответ организации\nЕкатерина Калманова\nЗнаток города 11 уровня\nПодписаться\n26 октября 2025\nОчень нравиться эта студия, хорошие мастера. Администратор очень отзывчивая. З года хожу и не разу не пожалела, все на высшем уровне.\n1\nКира Евгеньевна\nЗнаток города 8 уровня\nПодписаться\n16 октября 2023\nБыла у топ мастера по ногтевому сервису, сделали красиво, дизайн менялся прямо в процессе и все мои задумки были реализованы, аккуратно. Я осталась довольна. Этот же мастер сделала ламинирование бровей, тоже очень аккуратно, я в восторге. В сравнении с другими мастерами она мне понравилась. Девушка с Армении, очень внимательно отнеслась ко всем просьбам, а я достаточно капризный клиент. Спасибо большое\n1\n1\nДарья Слепнева\nЗнаток города 3 уровня\nПодписаться\n17 мая 2025\nЗамечательный мастер, все понравилось. Обстановка комфорт плюс) все быстро и красиво🥰\n1\nПосмотреть ответ организации\nАнастасия Радуль\nЗнаток города 7 уровня\nПодписаться\n10 октября 2024\nБольше двух лет ходила на маникюр в студию все было нормально до моего последнего визита 22 сентября. Ужасно хамское поведение менеджера Дианы повергло меня в ступор. Не было записи к моему мастеру и мне предложили другого со словами «но обратите внимание , что мастер не топ» из этих слов я вынесла , что мой мастер был топ, а эта нет , но все равно согласилась. Маникюр делали более двух часов. В конце сказали цену и я начала уточнять почему она не дешвле ,чем у прошлого мастера. На что менеджер в агрессивной манере начала повышать голос и говорить подобные фразы : «интересная вы такая , платить не хотите , с чего вы взяли что ваш мастер топ? Да , мы тогда для вас поднимем цены» я в шоке от манеры разъяснения прайса молча оплатила и вышла. После чего на вотсап менеджер начала написывать , названивать , записывать голосовые в агрессивной манере. Просто ужас и кошмар, отвратительное отношения к Клиентам. В студию , естественно, больше не приду.\n6\nПосмотреть ответ организации\nэлла россомахина\nЗнаток города 5 уровня\nПодписаться\n14 июня 2023\nБыла у колориста, очень довольна результатом. До посещения этого мастера волосы не могла отрастить. Могла себе позволить либо короткую стрижку типо боб , максимум каре. После этого салона, волосы начали расти, довольна тоном который мне подобрали(окрашиваю в светлые тона). Также могу рекомендовать мастера маникюра и педикюра. Забыла о заусенцах.\n1\n1\nНика Н.\nЗнаток города 6 уровня\nПодписаться\n22 февраля 2024\nХожу в салон на маникюр уже больше года, мастер отличный, делает всё аккуратно, учитывая каждое желание. Прилагаю несколько фото.\n\nДополняю отзыв 22.02.2024 г.: В студию красоты \"E, Jo\" (ранее называлась \"Enjoy\") ходила 2 года на маникюр к Мане. К мастеру никаких претензий нет. Всё делает аккуратно и быстро.\n\nМой последний визит в этот салон - 21.02.2024 г., нужно было отреставрировать поломавшийся уголок ногтя, после чего возвращаться сюда больше не хочется, а всему виной - хамское отношение администратора Дианы.\nПервый раз столкнулась с таким неуважением к себе будучи год клиентом салона. Дважды за год повысили стоимость услуг. Сначала за маникюр брали 1300 руб., потом 1500 руб., после - 1700 руб.\n!!! НО о повышении НИКТО НИ РАЗУ не предупредил. После второго подорожания задала вопрос администратору, почему я узнаю об этом всегда по факту. На что Диана ответила пренебрежительным тоном: \"ВСЕ клиенты в курсе, а Вы почему-то нет.\nВсех всегда предупреждают\".\nЯ ответила, что меня НИ РАЗУ об этом не оповещали, на что мне было сказано: \"Значит, забыли. Мастер больше не будет работать за меньшую стоимость, да и цены на всё растут\", при всём этом, как бы это смешно ни звучало, пришлось выпрашивать извинения за её же ошибку.\nПотом мне всё-таки рассказали про \"плюсы\" подорожания, а именно: теперь в стоимость 1700 руб. входит не только маникюр с покрытием, а ещё маникюрный набор, простой дизайн и ремонт ногтей. Сомнительные плюсы с учётом того, что один наборчик используется по 2 раза, ногти ломаются крайне редко, а за дизайн как брали дополнительную плату, так и берут. Когда первый раз обратилась с поломкой ногтя, плату не взяли, как и обещали.\nА вот второй раз (последний) новый мастер мне немного подпилила ноготь, причем криво, лаком подкрасила только уголок, оставив пузыри, и залила топ прям внутрь кутикулы, за что собирались взять плату. Вдобавок ко всему финишное покрытие местами начало отслаиваться (фото прилагаю).\nДиана спросила: \"Наличными или переводом?\"\nНа что я в недоумении переспросила: \"А разве это не входит в стоимость, как Вы мне раньше говорили?\"\nИ тут началось опять враньё: \"Уже прошло две недели, а ремонт мы делаем бесплатно в течение 3-5 дней после того, как сделали маникюр.\"\nИ снова шок. Спрашиваю, почему она раньше про эти сроки ничего не говорила, а в ответ опять получаю: \"Все наши клиенты в курсе, а у Вас как всегда какие-то проблемы\".\nКонечно же, мне это не понравилось слушать, и я напомнила, что она разговаривает с клиентом. На этом Диана не остановилась, перебивала и с пеной у рта на повышенных тонах доказывала свою правоту, а в конце добавила, что ей не нужны такие проблемные клиенты.\nДержаться за такой салон с отвратительным сервисом нет смысла, благо в районе есть несколько других салонов, услугами которых можно воспользоваться за меньшую стоимость.\n\nВ общем, если пришли в эту студию, дайте дань уважения этому горе-администратору, потакая во всём и не обращая внимания на враньё, иначе тоже станете \"проблемным клиентом\".\nА тому, кто хочет расслабиться и провести время с удовольствием, наводя красоту, делать там нечего.\n9\n2\nКарамельная\nЗнаток города 3 уровня\nПодписаться\n18 октября 2023\nХочу выразить благодарность своему любимому мастеру Манэ! Я уже давно хожу к этому мастеру маникюра, и она никогда меня не подводила.\nМне нравится, что мастер маникюра может работать очень быстро, и при этом сохранять высокое качество своей работы. Очень большой выбор палитры лаков, любой дизайн. Однозначно рекомендую!\n1\n1\nПосмотреть ответ организации\nОксана Лялюк\nЗнаток города 3 уровня\nПодписаться\n28 июня 2023\nДелаю маникюр в этом салоне почти два года у мастера Манэ. Это мастер от бога. Внимательная, аккуратная. Клиента понимает с полуслова и работа всегда качественная. Записалась как всегда к ней на маникюр и педикюр Пришла а моего мастера нет, при этом администратор не предупредил , что мастер будет другой. Это не мастер а какой то кошмар ( женщина в возрасте, не знаю как зовут , в очках. В итоге порезаны пальцы, что на руках, что на ногах. Кроссовки не могу одеть уже три дня ( очень болят пальцы) и руки смотрятся так как будто их делал стажер, хотя администратор уверяет что у нее опыт 20 лет. За что я отдала такие деньги я не знаю. Данного мастера не рекомендую\n7\nНаталия К.\nЗнаток города 2 уровня\nПодписаться\n22 ноября 2024\nДелала укладку у мастера Нара. Очень понравилось, аккуратно, хорошо держится, после посещения салона красоты приятные впечатления и настроение!\n2\nПосмотреть ответ организации\nТатьяна Головина\nЗнаток города 4 уровня\nПодписаться\n29 сентября 2025\nЗаписалась в понедельник на 10:00, пришла, салон закрыт, на звонки не отвечают, потрачено время и испорчено настроение …\n2\nАнна Акулова\nЗнаток города 3 уровня\nПодписаться\n26 июля 2024\nхожу не первый раз в этот салон к мастеру Манэ, делает чудесный маникюр и педикюр 🔥 очень быстро и качественно\n1\n2\nПосмотреть ответ организации\n1\n2\n3\nЗаписаться онлайн\nНаписать отзыв",
+      "links": [
+        {
+          "text": "Маршруты",
+          "href": "https://yandex.com/maps/10740/mytischi/routes/"
+        },
+        {
+          "text": "Обзор",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/"
+        },
+        {
+          "text": "Товары и услуги",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/prices/"
+        },
+        {
+          "text": "Фото",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/gallery/"
+        },
+        {
+          "text": "Отзывы",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/"
+        },
+        {
+          "text": "Похожие места",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/related/"
+        },
+        {
+          "text": "Хорошее место 2026\nНаграда для любимых мест пользователей Яндекс Карт",
+          "href": "https://yandex.ru/project/maps/goodplace/"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/ev8mfejhu1kya6yu0v8y4tzky4"
+        },
+        {
+          "text": "маруся самохина",
+          "href": "https://yandex.com/maps/user/ev8mfejhu1kya6yu0v8y4tzky4"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/4hrucjvy6cx9xh4p70j6xc6ybw"
+        },
+        {
+          "text": "Татьяна",
+          "href": "https://yandex.com/maps/user/4hrucjvy6cx9xh4p70j6xc6ybw"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/t5b01br4mwr6mwvk6z9kxjvza0"
+        },
+        {
+          "text": "Галюня Кокорева",
+          "href": "https://yandex.com/maps/user/t5b01br4mwr6mwvk6z9kxjvza0"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/nwdg8p508qvdye35wf2u1vby1w"
+        },
+        {
+          "text": "Наталья Королева",
+          "href": "https://yandex.com/maps/user/nwdg8p508qvdye35wf2u1vby1w"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/ru2v5gg8rmqxx4mr46hz3z8ea4"
+        },
+        {
+          "text": "Дарья Г.",
+          "href": "https://yandex.com/maps/user/ru2v5gg8rmqxx4mr46hz3z8ea4"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/mbu22k2zd5dq125a3kkxerngh8"
+        },
+        {
+          "text": "Annet Aaa",
+          "href": "https://yandex.com/maps/user/mbu22k2zd5dq125a3kkxerngh8"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/7pv4tvk5r2ch52cb4b5qmmc34r"
+        },
+        {
+          "text": "Кишмиш С.",
+          "href": "https://yandex.com/maps/user/7pv4tvk5r2ch52cb4b5qmmc34r"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/d2hxfc3wvrp8wgqkve1a7wr914"
+        },
+        {
+          "text": "Инкогнито 4276",
+          "href": "https://yandex.com/maps/user/d2hxfc3wvrp8wgqkve1a7wr914"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/ay9yxyba7c0nkfryh1f0ddk4kr"
+        },
+        {
+          "text": "Анюа Скворцова",
+          "href": "https://yandex.com/maps/user/ay9yxyba7c0nkfryh1f0ddk4kr"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/93bvtct713evxk1g53av72d9y0"
+        },
+        {
+          "text": "Евгения С.",
+          "href": "https://yandex.com/maps/user/93bvtct713evxk1g53av72d9y0"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/et8barupzfq3y0hmd4u1c5cqc8"
+        },
+        {
+          "text": "Гнар Аташян",
+          "href": "https://yandex.com/maps/user/et8barupzfq3y0hmd4u1c5cqc8"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/z8ppww1rvyg2tm9npdpx1tdnmg"
+        },
+        {
+          "text": "Сюзанна Сафарян",
+          "href": "https://yandex.com/maps/user/z8ppww1rvyg2tm9npdpx1tdnmg"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/w8wu9wqhmry1j9rmw53ammg4dr"
+        },
+        {
+          "text": "Гозал Калашан",
+          "href": "https://yandex.com/maps/user/w8wu9wqhmry1j9rmw53ammg4dr"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/dcguvnn7efj11ernnge19c0pv4"
+        },
+        {
+          "text": "Милена Калоян",
+          "href": "https://yandex.com/maps/user/dcguvnn7efj11ernnge19c0pv4"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/np6jwyryd7mb2qnndrbmw61zqc"
+        },
+        {
+          "text": "Анастасия Е.",
+          "href": "https://yandex.com/maps/user/np6jwyryd7mb2qnndrbmw61zqc"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/z0v1agxpzj65kycn5h79gbkzf4"
+        },
+        {
+          "text": "Кристина Овчаренко",
+          "href": "https://yandex.com/maps/user/z0v1agxpzj65kycn5h79gbkzf4"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/yzemub0cnka65n6az3p2g4bdcg"
+        },
+        {
+          "text": "Гузаля Исмаилова",
+          "href": "https://yandex.com/maps/user/yzemub0cnka65n6az3p2g4bdcg"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/xeevhjx36yact1yzza0ejgx790"
+        },
+        {
+          "text": "даня (жирный)",
+          "href": "https://yandex.com/maps/user/xeevhjx36yact1yzza0ejgx790"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/8md43391nqygb1m27efegutr84"
+        },
+        {
+          "text": "Мария З.",
+          "href": "https://yandex.com/maps/user/8md43391nqygb1m27efegutr84"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/1dc01y52k6487pktmeadj05jpw"
+        },
+        {
+          "text": "сусанна Надирова",
+          "href": "https://yandex.com/maps/user/1dc01y52k6487pktmeadj05jpw"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/taaptbc30nyrbe581u43w55dn8"
+        },
+        {
+          "text": "Ковалева Софья",
+          "href": "https://yandex.com/maps/user/taaptbc30nyrbe581u43w55dn8"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/ahwy1fj6zzvwzvpb25hxv7wr1g"
+        },
+        {
+          "text": "Arinochka2211",
+          "href": "https://yandex.com/maps/user/ahwy1fj6zzvwzvpb25hxv7wr1g"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/pakhomova.nastyona"
+        },
+        {
+          "text": "Анастасия П.",
+          "href": "https://yandex.com/maps/user/pakhomova.nastyona"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/40g4j0n526dcxe5r9e5eyz93kc"
+        },
+        {
+          "text": "Влада Арутюнова",
+          "href": "https://yandex.com/maps/user/40g4j0n526dcxe5r9e5eyz93kc"
+        },
+        {
+          "text": "М",
+          "href": "https://yandex.com/maps/user/phk5cbnkv477u6zyb8r96z1kfg"
+        },
+        {
+          "text": "Мария Трайзе",
+          "href": "https://yandex.com/maps/user/phk5cbnkv477u6zyb8r96z1kfg"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/c808q3xjf6b6t2h68fna91w2zg"
+        },
+        {
+          "text": "Виктория Рыжова",
+          "href": "https://yandex.com/maps/user/c808q3xjf6b6t2h68fna91w2zg"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/x48n7k6tj30eep24a3vaav3zb0"
+        },
+        {
+          "text": "ирина ч.",
+          "href": "https://yandex.com/maps/user/x48n7k6tj30eep24a3vaav3zb0"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/2rmudkw0du6k4c9tgr7zz121z4"
+        },
+        {
+          "text": "Мария В.",
+          "href": "https://yandex.com/maps/user/2rmudkw0du6k4c9tgr7zz121z4"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/rpruuhnr6vqfv30294zwx70mrc"
+        },
+        {
+          "text": "Людмила И.",
+          "href": "https://yandex.com/maps/user/rpruuhnr6vqfv30294zwx70mrc"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/fj45gdferxdmzqj6myyq4yayqc"
+        },
+        {
+          "text": "Дина Н.",
+          "href": "https://yandex.com/maps/user/fj45gdferxdmzqj6myyq4yayqc"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/xqtr2zhthkm38185wma7qhgfqm"
+        },
+        {
+          "text": "Мария",
+          "href": "https://yandex.com/maps/user/xqtr2zhthkm38185wma7qhgfqm"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/d6jkq58zzwq0pa17v4xd5ztbkm"
+        },
+        {
+          "text": "Davit Manukyan",
+          "href": "https://yandex.com/maps/user/d6jkq58zzwq0pa17v4xd5ztbkm"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/buv1z276xdnrfn7x5e51f68dcc"
+        },
+        {
+          "text": "Маргарита С.",
+          "href": "https://yandex.com/maps/user/buv1z276xdnrfn7x5e51f68dcc"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/w7e9tvbxv63yveydqer3023nr8"
+        },
+        {
+          "text": "Кристина Н.",
+          "href": "https://yandex.com/maps/user/w7e9tvbxv63yveydqer3023nr8"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/wrk57drn0b71djwk2xvhxr08br"
+        },
+        {
+          "text": "Анна",
+          "href": "https://yandex.com/maps/user/wrk57drn0b71djwk2xvhxr08br"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/yf6nyyk9vd2egna4a12a0cg934"
+        },
+        {
+          "text": "Кочеткова Я.",
+          "href": "https://yandex.com/maps/user/yf6nyyk9vd2egna4a12a0cg934"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/9cq3w89gkby8x1ryynffx3408w"
+        },
+        {
+          "text": "Margaran",
+          "href": "https://yandex.com/maps/user/9cq3w89gkby8x1ryynffx3408w"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/qu7ajpfvd4c02apy13a1bt5ek8"
+        },
+        {
+          "text": "anutamaii2017",
+          "href": "https://yandex.com/maps/user/qu7ajpfvd4c02apy13a1bt5ek8"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/w5erabu298pqtccu8aw8ukdp0c"
+        },
+        {
+          "text": "Елена Клепикова",
+          "href": "https://yandex.com/maps/user/w5erabu298pqtccu8aw8ukdp0c"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/xh5myvmtvd574k3n3ee11v98cg"
+        },
+        {
+          "text": "Екатерина Калманова",
+          "href": "https://yandex.com/maps/user/xh5myvmtvd574k3n3ee11v98cg"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/cjeq7x6buu7kq3ej5zac59m52g"
+        },
+        {
+          "text": "Кира Евгеньевна",
+          "href": "https://yandex.com/maps/user/cjeq7x6buu7kq3ej5zac59m52g"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/60yuv0zrf8u7dc3n3wh05edxqc"
+        },
+        {
+          "text": "Дарья Слепнева",
+          "href": "https://yandex.com/maps/user/60yuv0zrf8u7dc3n3wh05edxqc"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/fup930af399gjc42fy8uey4pym"
+        },
+        {
+          "text": "Анастасия Радуль",
+          "href": "https://yandex.com/maps/user/fup930af399gjc42fy8uey4pym"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/qp18qcrn633grrd6ddpwevbkyg"
+        },
+        {
+          "text": "элла россомахина",
+          "href": "https://yandex.com/maps/user/qp18qcrn633grrd6ddpwevbkyg"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/2fh0gx753290fqyqudc74amuvm"
+        },
+        {
+          "text": "Ника Н.",
+          "href": "https://yandex.com/maps/user/2fh0gx753290fqyqudc74amuvm"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/bwxay27me0w7rgwncbrzcknxq4"
+        },
+        {
+          "text": "Карамельная",
+          "href": "https://yandex.com/maps/user/bwxay27me0w7rgwncbrzcknxq4"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/c61y9ceutc5jy47hwyjmwv1unw"
+        },
+        {
+          "text": "Оксана Лялюк",
+          "href": "https://yandex.com/maps/user/c61y9ceutc5jy47hwyjmwv1unw"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/3dwrj1a4jahvavgq9wzdx915z8"
+        },
+        {
+          "text": "Наталия К.",
+          "href": "https://yandex.com/maps/user/3dwrj1a4jahvavgq9wzdx915z8"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/awgahgbgja7a9179ytb4wzee34"
+        },
+        {
+          "text": "Татьяна Головина",
+          "href": "https://yandex.com/maps/user/awgahgbgja7a9179ytb4wzee34"
+        },
+        {
+          "text": "Аватар",
+          "href": "https://yandex.com/maps/user/50wgkxxyv3d5q234234w9n6b0m"
+        },
+        {
+          "text": "Анна Акулова",
+          "href": "https://yandex.com/maps/user/50wgkxxyv3d5q234234w9n6b0m"
+        },
+        {
+          "text": "2",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/?page=2"
+        },
+        {
+          "text": "3",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/?page=3"
+        }
+      ]
+    },
+    "features": {
+      "url": "https://yandex.com/maps/org/salon_krasoty/174918939445/?tab=features&ll=37.778552%2C55.945411&z=13",
+      "title": "Салон красоты, салон красоты, Стрелковая ул., 21, Мытищи — Яндекс Карты",
+      "heading": "Салон красоты",
+      "meta": "Салон красоты «Салон красоты» — «Хорошее место» по оценкам пользователей — по адресу Московская область, Мытищи, Стрелковая улица, 21, ☎️ +7 985 313 54 33. Читать 144 отзыва, смотреть 144 фото, панорамы, часы работы. Построить маршрут в Яндекс Картах.",
+      "text": "Поиск\nМаршруты\nСалон красоты\nОбзор\nТовары и услуги\nНовости\n7\nФото\n164\nОтзывы\n144\nФилиалы\nОсобенности\nПохожие места\nСалон красоты\nНогтевая студия\nПарикмахерская\nУслуги\nМаникюр\nПедикюр\nПарикмахерские услуги:окрашивание, тонирование, кератиновое выпрямление, колорирование, французские косички, для детей, вечерняя/свадебная укладка, локоны/керли, лечение волос, мелирование, укладка, стрижка, омбре, нанопластика\nЦены\nКлассический женский маникюр с покрытием:800–1000 ₽\nОбщая информация\nОплата картой\nПарковка\nWi-Fi\nПодарочный сертификат\nСпособ оплаты:наличными, онлайн, оплата кредитной картой\nАкции:скидки, акции, спецпредложения, бонусы, подарки\nДоступность\nРедактировать\nРекомендуем связаться с организацией, чтобы уточнить актуальность данных перед посещением\nПарковка для людей с инвалидностью\nНаписать отзыв про доступность",
+      "links": [
+        {
+          "text": "Маршруты",
+          "href": "https://yandex.com/maps/10740/mytischi/routes/"
+        },
+        {
+          "text": "Обзор",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/"
+        },
+        {
+          "text": "Товары и услуги",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/prices/"
+        },
+        {
+          "text": "Фото",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/gallery/"
+        },
+        {
+          "text": "Отзывы",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/"
+        },
+        {
+          "text": "Похожие места",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/related/"
+        },
+        {
+          "text": "Салон красоты",
+          "href": "https://yandex.com/maps/10740/mytischi/category/beauty_salon/184105814/"
+        },
+        {
+          "text": "Ногтевая студия",
+          "href": "https://yandex.com/maps/10740/mytischi/category/nail_salon/20476284572/"
+        },
+        {
+          "text": "Парикмахерская",
+          "href": "https://yandex.com/maps/10740/mytischi/category/hairdresser/184105812/"
+        }
+      ]
+    },
+    "gallery": {
+      "url": "https://yandex.com/maps/org/salon_krasoty/174918939445/gallery/?ll=37.778552%2C55.945411&z=13",
+      "title": "Фото: Салон красоты, салон красоты, Стрелковая ул., 21, Мытищи — Яндекс Карты",
+      "heading": "Салон красоты",
+      "meta": "Фотографии места Салон красоты от организации и пользователей Яндекс Карт",
+      "text": "Поиск\nМаршруты\nСалон красоты\nОбзор\nТовары и услуги\nНовости\n7\nФото\n164\nОтзывы\n144\nФилиалы\nОсобенности\nПохожие места\nВсе\nУслуги\nВидео\nВход\nСнаружи\nВнутри\nТовары\nЗаписаться онлайн\nДобавить фото или видео",
+      "links": [
+        {
+          "text": "Маршруты",
+          "href": "https://yandex.com/maps/10740/mytischi/routes/"
+        },
+        {
+          "text": "Обзор",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/"
+        },
+        {
+          "text": "Товары и услуги",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/prices/"
+        },
+        {
+          "text": "Фото",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/gallery/"
+        },
+        {
+          "text": "Отзывы",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/reviews/"
+        },
+        {
+          "text": "Похожие места",
+          "href": "https://yandex.com/maps/org/salon_krasoty/174918939445/related/"
+        }
+      ]
+    }
+  },
+  "gallery_by_category": {
+    "Все": [
+      "https://avatars.mds.yandex.net/get-altay/9719535/2a0000018a360336c58956fe36f7e18c404b/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/4509886/2a00000178358f798d8deb799ce4df7ba8dd/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/10142335/2a0000018caa38c65f89fcf48b047f0be88d/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5490109/2a0000017cae39a4846112b3bc642c7aeed9/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/4797538/2a000001775a3ae33719780bd0e1dfd30803/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/1020917/2a00000186f0833dd430353b0008f28aa4be/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/10328405/2a0000018e9082786640282a2d2d8fc82c3b/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/4524003/2a0000017c40b6f5463bf618f97f3540e5cd/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/910613/2a0000018b77db9039ca2510508ecefefcc6/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/1583511/2a0000018647da155745da5b0b3f9444a5f5/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/902116/2a000001865a5edc36163e8f0510493772a6/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/10239151/2a0000018fed131ebd7dd54ed62920463437/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/4120601/2a00000177a58c8bd4fcd1ac3aa7e9cd3882/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/6159907/2a0000018faa1843089397b1c79a97f2df1c/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/9368060/2a0000018a360336f2a2601bebe5661fe5a4/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/4524003/2a0000017c40ba0fbbfc028c35bc75831e57/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/2701879/2a00000174491fecbe41cfce869c5e46c89d/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/6143287/2a0000018486fd527624f5781475e3e1cbbf/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/2761244/2a0000017449202523f4e99cb42a679b1600/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/11093519/2a0000018b955e8790c28299c773b6c71d68/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/9830591/2a000001901855e6d121d7a5ae9542933a60/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/4341149/2a0000017c40b6d593707fb3be947d77c78f/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/1987173/2a0000017449202086be9b2ad4a2914ad4d6/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/3518606/2a00000177a58c9160355c97ed768ea826fb/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/13203115/2a0000018ed397437c37347680a9b6a92a79/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/13499585/2a000001902ab66948396dda21ea7299c171/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/979642/2a000001877f759e5cb2945a41adffb1c6be/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/10239151/2a000001901afca96c7f571919fd256f9f63/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5534173/2a0000018486fce4b5895cbaf219335ba31a/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5445147/2a0000017cae3b2b761fa650891eb26e1c8d/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/4587805/2a0000017c40a27a4b98a27676e86da861b3/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/2419289/2a00000174492010be8db2ac68cb6cc8cf61/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/13083354/2a0000018f2e95691bf46a79987f58c13926/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/4257799/2a0000017c40b5729bdc99b4b5b85c8c9040/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/10812438/2a0000018a360337471fa4ff42f685cdc736/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/8093564/2a00000188f46c504c828b16f1cd0a8c43e7/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/6195924/2a0000018fed13483c14486a9446005fc30b/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/7754763/2a000001865a5ed3e2b855834983a26b38ad/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/9719535/2a00000188f46c50468fe5381fa1040f0239/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/13192844/2a000001903a3fb75f4e514ae8168c7ca74e/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/9663145/2a00000189cf79333cb9d8c5482d2a9aa266/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5503221/2a0000017cae3a232330f7e5bbfddc01e449/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/4562719/2a0000017c40b64e32a216836bf4f256cca0/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5298780/2a0000017c40b989bf462cd8f0cec16a4429/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5527230/2a0000018486ff5b9f64e0d2565517e1afd8/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/2433982/2a000001744921c84269ba88adee8c2ea5f1/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/4289674/2a0000017c40a3ad66a0f6ffa0135a838281/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/8128793/2a00000187e1bee1dfb12bf90db379c5a3ae/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5195020/2a0000017c40a2f07b8fca524d75b33dec79/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/11003990/2a0000018b77db7e7b1013e34c8c6209d364/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/13203115/2a0000018fe5bd2ceb2122000c1a1a9e2280/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/13581124/2a0000018ec28d2a6a4d60c47788676f13d8/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/2368846/2a00000173dd2fd745931bf535c7654abf98/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/11940760/2a0000018ec78e1247b6d68c48c2c547aeeb/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/2397657/2a00000174491fff9a0d5a57c5af0c73b22f/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/4380921/2a00000177a58c8e1c2aba3b6cdce7fb751e/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/9916116/2a00000188f46c509f63a95213fc113c4c8c/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/10328405/2a0000018ec78e12dc5d247d7daf75ffc521/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/10239151/2a0000019072ddc31adaf5698dbdbee015c4/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/4538345/2a00000177a58c94e21860eb6e9c294c68b0/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/10447847/2a0000018b6af2818d78b4bcab6ad9d4ffdf/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/2755030/2a00000173dd32719d18d565a3071625e85c/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/10648814/2a0000018aec44c6fa89798f7fe1ffa76f04/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/10829645/2a0000018b04ae42f7427df958405c089d40/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/13267750/2a0000018fed4bc1e98909e0e2efe3c3fd3e/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/10147638/2a0000018db1ac0f433b99b71fac6be49cb6/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/2815220/2a00000173dd2facc1357f1566a79ba148cf/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/1371846/2a000001865a5e57ffa8ebf5f73f13129392/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/11940760/2a0000018ec78e1248f5f12998c3a067c572/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5234013/2a0000018486f97f0b51a15849896006c0c3/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/13193546/2a0000018fed136ce3e96704b96a8327684f/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/6310045/2a00000190696013ebb1e1dbf600fad69fe3/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5115998/2a0000018e9082f4056ec00e4c4f2c441913/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/8075227/2a000001871e8777df0549e52654f7f1ddea/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/7982580/2a0000018486fc5497ddafc5f69a2babe4d7/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/12548008/2a0000018f02b6e25c730afbd772eeec061c/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d8549a442b495269ddf81e5f860/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/10648814/2a0000018a89bf875317c80fa5f9a58fcff3/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5479384/2a0000017d85496a660df82a25d63e03a404/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/2815220/2a00000173dd2fbc6f7c19b3de4004a49611/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/1024093/2a0000018544e9971bbc534e792ca20d9242/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/1003687/2a000001871e8754cb792c20648a1eae2038/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5584339/2a0000017cae38da5f17145a4d0256832e30/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/2752367/2a00000174491ff038d1aa5a46c566386d4d/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/771751/2a0000018544e24ba9a4e70694a72c584e9a/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/10239151/2a000001909c3bedde804ac8e907b2b908cc/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/961502/2a00000190c4eeb621f8f1caeb602531cb20/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/11376278/2a00000190df61d1f254aefd054cb1f4c37a/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/3935166/2a0000017bfa5e5bd1c794a4a127d1c4b9dc/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16617364/2a00000196e94746c6df756c6a1bf28d882c/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/1618837/2a00000168d229036b868868e5ea958bfd30/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/14702189/2a00000195a57e67f401afde62432ccf7ef3/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/14733519/2a00000196e94746ca098d5e304e63d5a544/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5457654/2a0000017cae3cab1dc567a19ad9f350a242/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/14811824/2a00000196de7160344e07ea5d33719027c9/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/13941727/2a000001958c49b7f3e45422f9260ad553a4/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/15182949/2a00000196e94750d7ac0297be991a2a852b/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16749408/2a00000198119eb9a4634172cda328327b79/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/15182949/2a00000196e9474f36c9e51e414848c11914/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/14813057/2a00000195d362cabd9a52156bddbea68729/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/15066961/2a00000196e9474bb9f56a3aa201961e151d/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16182900/2a00000196e94746bb4aab3aea22129c4c45/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16243748/2a00000196e9474be7e689e4ec3516b80606/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/13668123/2a00000196e9474a07aafccc100d58e28e0d/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/15257527/2a00000196fbfedad37743b8b1c178deb978/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/15311720/2a00000196e9474ce02275f00a3f5c5546a2/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/15709664/2a000001973a27a500a33fa36a511d590d46/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/4257799/2a0000017c40b5a113177c13ae1bd3997ed5/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/15288852/2a00000196e94746d65b6dc06868668cd3f6/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/11203687/2a00000190efd62f996d081cc13a1d064aa1/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16166974/2a00000196fbfedaba930f817f17c8783a4f/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/14297579/2a00000196e9474ba138ec9a9dbcb41ebfa4/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/14296990/2a00000196e94746dbe3b09f0895a4038e3e/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16557473/2a00000198119eb9b9b269da407a3ff3fe2a/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16182900/2a0000019768715e0712b550a60c09e6659d/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/15423471/2a00000195d8481e5867aaf1001d4f5187fc/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16287657/2a00000198119eb9c241f04cd76fb44e9e35/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/13294935/2a000001934b7b39bb978d48a4a49be0c4af/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5120632/2a00000190e8a698837acd11a00b99a75718/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16404250/2a00000197d266f46e3728b12c7213afe8f9/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/14451083/2a00000193b563120cf7dd734a22463799b5/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/15417312/2a00000196e9474f7539a684efa0d7cb79e6/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/14402904/2a000001934b7b39d28452f048390d3d4a90/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/13930885/2a00000190e8a69f02abd653f37ddec241c2/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/15437010/2a00000196ddf2ed4716dc0ca554486d7e67/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/14372341/2a00000195d362eb94073e8fa26c63ac5542/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16617364/2a00000196e94746be3e66931d33d4a1e33e/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/5235198/2a0000017c40a433f2466a1c548fef9e3f0f/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/15251163/2a00000197279d8682bfccfa03f9a85aa023/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/13944697/2a00000198119eb9d71a4f74777a1f8913e2/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/14451083/2a00000194bd62104a014780bf846b2ce5e6/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/14215987/2a000001925e3e0ce8e7924d4c8db99189e9/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/14398723/2a000001958c49ea95a827c406bb579176c5/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16113897/2a00000196f1ef14c44c02704a364f74d6fc/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/13206104/2a00000196ddf14266dcd7e68c90ce53702d/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/18140291/2a0000019ac0ec412dc57e6566aa11734b8a/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16443717/2a0000019a20d36ea161cb60b45e0aa0d132/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/18134764/2a0000019ac0ec53ee9676db376057651e30/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16483787/2a0000019ae626fc10192a05886316b53975/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/19647201/2a0000019b69b0a5461e8bb52b658c58d063/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16374562/2a0000019b69b088d9d05c31421d46eb248b/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/18005133/2a0000019a20d382ebbbd2b04e73aebce25b/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/15394162/2a0000019b69b0742bb12e96c811ff152996/XXXL",
+      "https://avatars.mds.yandex.net/get-altay/16130837/2a0000019aee1cbc6f9646de8060d0830ba5/XXXL"
+    ]
+  },
+  "warnings": [
+    "Главное фото, master/masterpc, logo и favicon автоматически не назначаются — их подтверждает человек."
+  ],
+  "download_failures": [],
+  "review_limit": 11,
+  "collection_status": "complete",
+  "masters": [],
+  "map_source": "yandex",
+  "folder_name": "salon_krasoty",
+  "review_selection": {
+    "candidates_seen": 50,
+    "selected": 11,
+    "unknown_rating": 0
+  },
+  "gallery_reported_total": 164,
+  "gallery_urls_found": 144
+}
